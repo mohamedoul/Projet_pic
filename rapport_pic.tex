@@ -18,6 +18,7 @@
 \usepackage{gensymb}
 
 \usepackage{listings,color}
+
 \definecolor{verbgray}{gray}{0.9}
 \setlength{\parskip}{1ex plus 0.5ex minus 0.2ex}
 \newcommand{\hsp}{\hspace{20pt}}
@@ -166,11 +167,12 @@
 	   \includegraphics[scale=0.5]{Diagramme_Gantt.png}
 	   \caption {Le diagramme de Gantt du projet}
 	\end{figure}
-	
+	\newpage
 	
 	\chapter{Etude analytique du projet}
 
 Ce chapitre présentera les outils utilisés pour la réalisation de la conception de notre projet. Par ailleurs, il relate ses différentes étapes, ainsi que les diagrammes dégagés après chaque étape.
+\newpage
 \section {Etude analytique du projet}
 
 
@@ -286,12 +288,29 @@ Ce chapitre est l’occasion pour présenter les différents langage et outils u
 \section {Réalisation du projet }
 \subsection {Langages et outils utilisé  }
 \subsubsection {Langage R  }
-
-
+R est un langage de programmation et un logiciel libre dédié aux statistiques et à la science des données soutenu par la R Foundation for Statistical Computing. Il est dérivé du langage S développé par John Chambers et ses collègues au sein des laboratoires Bell.
+Le projet R naît en 1993 comme un projet de recherche de Ross Ihaka et Robert Gentleman à l'université d'Auckland (Nouvelle-Zélande). 
+Le langage R existe en plusieurs distribution, cependant la plus connue demeure celle du R Project et du Comprehensive R Archive Network (CRAN). Il existe d'autres distributions comme la distribution proposée par Microsoft14 ou encore celle de l'entreprise Oracle, Oracle R Distribution15.
+Le choix du langage R, a été adopté en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
+\begin{itemize} 
+\item Les statistiques relatives aux classements des sportifs  devront être  faites en un langage capable de traiter des données volumineuses (les données relatives aux challenges dans le cas de notre projet) en réduisant au maximum les ressources utilisés en mémoire.
+\item Le choix de ce langage repose également sur des raisons pédagogiques. En fait, ce projet est l’occasion de découvrir les avantages et les limitations du langage R en termes de réalisation d’interfaces graphiques dynamiques et interactives.
+La figure ci-après représente le logo du langage R :
+\end{itemize} 
+\begin{figure}
+	  \center
+	  \includegraphics[scale=0.5]{R_logo.png}
+	   \caption {Le logo du langage R}
+\end{figure}
 
 \subsubsection {Serveur Shiny}
+Shiny est un package R qui facilite la création d'applications Web interactives directement à partir de R. Il permet d’héberger des applications autonomes sur une page Web ou les intégrer dans des documents R Markdown ou créer des tableaux de bord. Il offre également la possibilité d’étendre les applications Shiny avec des thèmes CSS, html widgets et des actions JavaScript. La figure ci-après représente le logo de Shiny 
+\begin{figure}
+	  \center
+	  \includegraphics[scale=0.5]{Shiny_logo.png}
+	   \caption {Le logo de Shiny}
+\end{figure}
 
-\subsubsection {Fichiers Excel}
 \subsection {Les interfaces du projet }
 
 \subsection {Etudes des options du déploiement du projet }
