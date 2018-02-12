@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 19:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 19:25
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1012,14 +1012,14 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 32.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<logo_png.png, id=95, 166.37157pt x 161.85469pt>
+<logo_png.png, id=99, 166.37157pt x 161.85469pt>
 File: logo_png.png Graphic file (type png)
 <use logo_png.png>
 Package pdftex.def Info: logo_png.png  used on input line 35. on input line 35.
 
 Package pdftex.def Info: Requested size: 133.09741pt x 129.4839pt on input line
  35.
-<eilco.png, id=97, 304.4976pt x 128.1588pt>
+<eilco.png, id=101, 304.4976pt x 128.1588pt>
 File: eilco.png Graphic file (type png)
 <use eilco.png>
 Package pdftex.def Info: eilco.png  used on input line 36. on input line 36.
@@ -1028,73 +1028,73 @@ Package pdftex.def Info: Requested size: 213.14687pt x 89.71054pt on input line
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 40.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 39.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 40.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 39.
 
-<logo.png, id=98, 304.4976pt x 128.1588pt>
+<logo.png, id=102, 304.4976pt x 128.1588pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 46. on input line 46.
+Package pdftex.def Info: logo.png  used on input line 45. on input line 45.
 Package pdftex.def Info: Requested size: 304.49686pt x 128.15848pt on input lin
-e 46.
+e 45.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 51.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 53.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 52.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 59.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 59.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 59.
 
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 60.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 59.
 
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 60.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 60.
+(Font)              <8> on input line 59.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 60.
-LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+(Font)              <6> on input line 59.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 60.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 59.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 60.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 59.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-[]\T1/lmss/m/n/14.4 Mme.  \T1/lmr/m/sc/14.4 POIS-SON
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/lmss/m/n/14.4 Mme. \T1/lmr/m/sc/14.4 POIS-SON
  []
 
 [1
@@ -1108,7 +1108,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.84 	\newpage
+l.80 	\newpage
                [1
 
 ] (rapport_pic.lof)
@@ -1121,55 +1121,65 @@ l.84 	\newpage
 Chapitre 1.
 [4
 
-]
-<points_categorie_adultes.png, id=185, 575.90157pt x 48.93282pt>
+] [5]
+<points_categorie_adultes.png, id=196, 575.90157pt x 48.93282pt>
 File: points_categorie_adultes.png Graphic file (type png)
 <use points_categorie_adultes.png>
-Package pdftex.def Info: points_categorie_adultes.png  used on input line 131. 
-on input line 131.
-Package pdftex.def Info: Requested size: 287.95007pt x 24.46634pt on input line
- 131.
+Package pdftex.def Info: points_categorie_adultes.png  used on input line 128. 
+on input line 128.
+Package pdftex.def Info: Requested size: 575.90016pt x 48.93268pt on input line
+ 128.
 
+Overfull \hbox (92.2033pt too wide) in paragraph at lines 128--129
+ [] 
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5]
-<points_categorie_jeunes.png, id=194, 584.93532pt x 264.99pt>
+<points_categorie_jeunes.png, id=197, 584.93532pt x 264.99pt>
 File: points_categorie_jeunes.png Graphic file (type png)
 <use points_categorie_jeunes.png>
-Package pdftex.def Info: points_categorie_jeunes.png  used on input line 147. o
-n input line 147.
-Package pdftex.def Info: Requested size: 292.46693pt x 132.49467pt on input lin
-e 147.
-<recapitulatif_modalite_challenge.png, id=195, 584.93532pt x 264.99pt>
+Package pdftex.def Info: points_categorie_jeunes.png  used on input line 144. o
+n input line 144.
+Package pdftex.def Info: Requested size: 526.43692pt x 238.48878pt on input lin
+e 144.
+
+Overfull \hbox (42.74005pt too wide) in paragraph at lines 144--145
+ [] 
+ []
+
+[6 <./points_categorie_adultes.png> <./points_categorie_jeunes.png>]
+<recapitulatif_modalite_challenge.png, id=205, 584.93532pt x 264.99pt>
 File: recapitulatif_modalite_challenge.png Graphic file (type png)
 <use recapitulatif_modalite_challenge.png>
 Package pdftex.def Info: recapitulatif_modalite_challenge.png  used on input li
-ne 156. on input line 156.
-Package pdftex.def Info: Requested size: 292.46693pt x 132.49467pt on input lin
-e 156.
- [6 <./points_categorie_adultes.png> <./points_categorie_jeunes.png> <./recapit
-ulatif_modalite_challenge.png>]
-<Diagramme_Gantt.png, id=202, 551.05875pt x 242.40562pt>
+ne 155. on input line 155.
+Package pdftex.def Info: Requested size: 526.43692pt x 238.48878pt on input lin
+e 155.
+
+Overfull \hbox (42.74005pt too wide) in paragraph at lines 155--156
+ [] 
+ []
+
+[7 <./recapitulatif_modalite_challenge.png>]
+<Diagramme_Gantt.png, id=210, 551.05875pt x 242.40562pt>
 File: Diagramme_Gantt.png Graphic file (type png)
 <use Diagramme_Gantt.png>
 Package pdftex.def Info: Diagramme_Gantt.png  used on input line 183. on input 
 line 183.
 Package pdftex.def Info: Requested size: 275.52869pt x 121.2025pt on input line
  183.
- [7 <./Diagramme_Gantt.png>]
+ [8 <./Diagramme_Gantt.png>]
 Chapitre 2.
-[8
+[9
 
 ]
-<Diagramme_de_packages.png, id=211, 535.2497pt x 216.05719pt>
+<Diagramme_de_packages.png, id=219, 535.2497pt x 216.05719pt>
 File: Diagramme_de_packages.png Graphic file (type png)
 <use Diagramme_de_packages.png>
 Package pdftex.def Info: Diagramme_de_packages.png  used on input line 202. on 
 input line 202.
 Package pdftex.def Info: Requested size: 267.62419pt x 108.02832pt on input lin
 e 202.
-<Diagramme_cas_utilisation_organisation_course.png, id=212, 463.7325pt x 313.17
+<Diagramme_cas_utilisation_organisation_course.png, id=220, 463.7325pt x 313.17
 pt>
 File: Diagramme_cas_utilisation_organisation_course.png Graphic file (type png)
 
@@ -1178,8 +1188,8 @@ Package pdftex.def Info: Diagramme_cas_utilisation_organisation_course.png  use
 d on input line 224. on input line 224.
 Package pdftex.def Info: Requested size: 231.86568pt x 156.58461pt on input lin
 e 224.
- [9 <./Diagramme_de_packages.png>]
-<Diagramme_cas_utilisation_administration_challenge.png, id=221, 455.45157pt x 
+ [10 <./Diagramme_de_packages.png>]
+<Diagramme_cas_utilisation_administration_challenge.png, id=229, 455.45157pt x 
 283.81032pt>
 File: Diagramme_cas_utilisation_administration_challenge.png Graphic file (type
  png)
@@ -1188,7 +1198,7 @@ Package pdftex.def Info: Diagramme_cas_utilisation_administration_challenge.png
   used on input line 241. on input line 241.
 Package pdftex.def Info: Requested size: 227.72522pt x 141.9048pt on input line
  241.
-<Diagramme_cas_utilisation_consultation_resultats.png, id=222, 455.45157pt x 28
+<Diagramme_cas_utilisation_consultation_resultats.png, id=230, 455.45157pt x 28
 3.81032pt>
 File: Diagramme_cas_utilisation_consultation_resultats.png Graphic file (type p
 ng)
@@ -1197,45 +1207,45 @@ Package pdftex.def Info: Diagramme_cas_utilisation_consultation_resultats.png
 used on input line 248. on input line 248.
 Package pdftex.def Info: Requested size: 227.72522pt x 141.9048pt on input line
  248.
-<Diagramme_classes.png, id=223, 792.71156pt x 383.18156pt>
+<Diagramme_classes.png, id=231, 792.71156pt x 383.18156pt>
 File: Diagramme_classes.png Graphic file (type png)
 <use Diagramme_classes.png>
 Package pdftex.def Info: Diagramme_classes.png  used on input line 260. on inpu
 t line 260.
 Package pdftex.def Info: Requested size: 396.35481pt x 191.5903pt on input line
  260.
- [10 <./Diagramme_cas_utilisation_organisation_course.png> <./Diagramme_cas_uti
+ [11 <./Diagramme_cas_utilisation_organisation_course.png> <./Diagramme_cas_uti
 lisation_administration_challenge.png>]
-[11 <./Diagramme_cas_utilisation_consultation_resultats.png> <./Diagramme_class
+[12 <./Diagramme_cas_utilisation_consultation_resultats.png> <./Diagramme_class
 es.png>]
-<Diagramme_activites.png, id=234, 736.25063pt x 354.57469pt>
+<Diagramme_activites.png, id=243, 736.25063pt x 354.57469pt>
 File: Diagramme_activites.png Graphic file (type png)
 <use Diagramme_activites.png>
 Package pdftex.def Info: Diagramme_activites.png  used on input line 294. on in
 put line 294.
 Package pdftex.def Info: Requested size: 368.1244pt x 177.28691pt on input line
  294.
- [12] [13 <./Diagramme_activites.png>]
+ [13] [14 <./Diagramme_activites.png>]
 Chapitre 3.
-[14
+[15
 
 ]
-<R_logo.png, id=251, 392.46625pt x 366.36874pt>
+<R_logo.png, id=259, 392.46625pt x 366.36874pt>
 File: R_logo.png Graphic file (type png)
 <use R_logo.png>
 Package pdftex.def Info: R_logo.png  used on input line 318. on input line 318.
 
 Package pdftex.def Info: Requested size: 196.23264pt x 183.18391pt on input lin
 e 318.
-<Shiny_logo.png, id=252, 281.05pt x 281.05pt>
+<Shiny_logo.png, id=260, 281.05pt x 281.05pt>
 File: Shiny_logo.png Graphic file (type png)
 <use Shiny_logo.png>
 Package pdftex.def Info: Shiny_logo.png  used on input line 326. on input line 
 326.
 Package pdftex.def Info: Requested size: 140.52464pt x 140.52464pt on input lin
 e 326.
- [15 <./R_logo.png>]
-<A_faire.png, id=260, 161.10187pt x 155.83218pt>
+ [16 <./R_logo.png>]
+<A_faire.png, id=268, 161.10187pt x 155.83218pt>
 File: A_faire.png Graphic file (type png)
 <use A_faire.png>
 Package pdftex.def Info: A_faire.png  used on input line 337. on input line 337
@@ -1248,37 +1258,37 @@ Package pdftex.def Info: A_faire.png  used on input line 359. on input line 359
 .
 Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
 59.
- [16 <./Shiny_logo.png> <./A_faire.png>] [17]
-(rapport_pic.bbl [18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
- [19
+ [17 <./Shiny_logo.png> <./A_faire.png>] [18] [19]
+(rapport_pic.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
+ [20
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
  (rapport_pic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
 Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
-(rerunfilecheck)             Checksum: 50095E1B384E33035C1307040F9927D6;1828.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
+(rerunfilecheck)             Checksum: C16780882F74C59BF853EFCBE7FBC18D;1886.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
  ) 
 Here is how much of TeX's memory you used:
- 10662 strings out of 493312
- 153323 string characters out of 3140192
- 244194 words of memory out of 3000000
- 13922 multiletter control sequences out of 15000+200000
+ 10663 strings out of 493312
+ 153332 string characters out of 3140192
+ 243194 words of memory out of 3000000
+ 13923 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,32p,894b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,8n,32p,894b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
 2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (20 pages, 1103130 bytes).
+Output written on rapport_pic.pdf (21 pages, 1102922 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
+ 329 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

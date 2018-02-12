@@ -25,7 +25,7 @@
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \renewcommand{\thesection}{\Alph{section}}
 	
-	\begin{document}
+\begin{document}
 	
 
 \begin{titlepage}
@@ -35,7 +35,6 @@
 \includegraphics[scale=0.8]{logo_png.png} \hfill
 \includegraphics[scale=0.7]{eilco.png} 
 \end{figure}
-
 
     \textsc{\Large }\\[1.5cm]
 
@@ -50,7 +49,7 @@
       \begin{flushleft} \large
 \emph{Réalisé par:} \\
 \begin{itemize} 
-         \item  Félix \textsc{BOUTRAA}
+         \item  Félix \textsc{BOUTERAA}
 	 \item  Mohamed \textsc{OULAAFFART}
 	 \item    Gaël \textsc{SAGON}
      
@@ -62,17 +61,14 @@
       \begin{flushright} \large
         \emph{Encadrants:}
 \begin{itemize} 
-     \item    Mme. \textsc{ POISSON CAILLAULT}
-     \item   M. \textsc{Laurent SMOCH }
+     \item    Mme. \textsc{POISSON CAILLAULT}
+     \item   M. \textsc{SMOCH}
 \end{itemize}
         \emph{}
       \end{flushright}
     \end{minipage}
 
     \vfill
-
-
-
   \end{center}
   \end{sffamily}
 \end{titlepage}
@@ -120,7 +116,8 @@
 	 \item  Seront retenues au challenge de l’année suivante uniquement les épreuves qui rempliront les contraintes et fourniront les résultats au format prévu au point 8 au plus tard dans la semaine suivant l’épreuve.
 	
 	\end{itemize} 
-	 \paragraph	Attribution des points. Un classement individuel par catégorie et par sexe est réalisé à l’issue de chacune des épreuves. Seule la distance la plus longue accessible à la catégorie sera prise en compte dans l’obtention des points.
+\newpage
+	 Attribution des points. Un classement individuel par catégorie et par sexe est réalisé à l’issue de chacune des épreuves. Seule la distance la plus longue accessible à la catégorie sera prise en compte dans l’obtention des points.\\
 	L’attribution des points se fait en fonction du classement par catégorie et sexe. 
 	
 	Les tableaux figurant ci-dessous récapitulent le nombre de points attribués selon le classement du participant :
@@ -128,7 +125,7 @@
 	   \item Pour les adultes
 	\begin{figure}[h!]
 	   \center
-	   \includegraphics[scale=0.5]{points_categorie_adultes.png}
+	   \includegraphics[scale=1]{points_categorie_adultes.png}
 	   \caption {Les points attribués aux participants de la catégorie adultes selon leurs classements}
 	\end{figure}
 	
@@ -144,19 +141,22 @@
 	   \item Pour les jeunes
 	\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{points_categorie_jeunes.png}
+	   \includegraphics[scale=0.9]{points_categorie_jeunes.png}
 	   \caption {Les points attribués aux participants de la catégorie jeunes selon leurs classements}
 	\end{figure}
 	
 	\end{enumerate}
+
+	\newpage
 	Au-delà de la 20ème place, un point est attribué à chacun des participants. Les abandons et les absents ne marquent pas de point. 
-	L’ensemble de ces règles susmentionnées sont récapitulées dans le schéma suivant :
-	\begin{figure}
+	L’ensemble des règles susmentionnées sont récapitulées dans le schéma suivant :
+	\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{recapitulatif_modalite_challenge.png}
+	   \includegraphics[scale=0.9]{recapitulatif_modalite_challenge.png}
 	   \caption {Récapitulatif des modalités du challenge}
 	\end{figure}
 	
+	\newpage
 	\subsection{Expression des besoins fonctionnelles}
 	L’outil développé dans le cadre de ce projet, doit répondre aux fonctionnalités définies en concertation avec le client lors des réunions. Ainsi l’ensemble de ces fonctionnalités sont répertoriées comme suit :
 	\begin{itemize} 
@@ -369,9 +369,12 @@ La figure ci-après illustre cette interface:
 \subsection {Contraintes et acquis }
 \newpage
 \section* {Conclusion}
+
+\addcontentsline{toc}{section}{Conclusion}
 En somme, notre projet qui consistait en la réalisation d’un logiciel permettant  la gestion et la mise à jour des challenges au profit de la fédération Française de triathlon, nous a permis dans un premier temps de prendre contact avec le maitre d’ouvrage afin de  déterminer et de statuer sur ses besoins fonctionnels. Egalement, il nous a permis de comprendre le processus de l’organisation des courses et de la mise à jour des challenges organisés par le Fédération Française du Triathlon. Par ailleurs, le projet était pour l’occasion pour mettre en pratique les acquis théoriques relatifs aux méthodes de gestion de projet, essentiellement SCRUM, de réaliser la conception moyennant le langage de modélisation UML ainsi   que la manipulation de nouveaux langages informatiques essentiellement R et son serveur dédié Shiny.\\
 En termes de perspectives, malgré que le langage R soit puissant en termes de calcul et de manipulation des statistiques des données volumineuses tout en diminuant la complexité des traitements. Néanmoins, il demeure limité en termes d’interfaces graphiques dynamiques, comparé à d’autres langages dédiés au web comme le PHP ou le JAVA EE. Ainsi et vu que le nombre de courses organisées durant l’année est limité et que les challenges de chaque année sont traités séparément, il serait donc judicieux, dans le cadre de l’évolution du projet de le reprendre en utilisant un langage dédié au web en assurant la persistance donnée par une base de données et également d’implémenter le module relatif à l’organisation de la course afin que le système d’information soit entièrement.
 
+\newpage
 \bibliographystyle{unsrt}
 \bibliography{bibli} % mon fichier de base de données s'appelle bibli.bib
 
