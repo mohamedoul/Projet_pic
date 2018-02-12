@@ -1,8 +1,8 @@
-\input{preambule.tex}%
-\begin{document}%
+\input{preambule.tex}
 	
-\input{pageCouverture.tex}
-
+\begin{document}
+	
+	\input{frontpage.tex}
 	
 	\newpage
 	
@@ -11,24 +11,18 @@
 	\newpage
 	
 	\listoffigures
-	\addcontentsline{toc}{section}{Table des figures}
+	
 	\newpage
-	\addcontentsline{toc}{section}{Introduction}
+	
 	\input{introduction.tex}
 	\input{chapitre1.tex}
 	\input{chapitre2.tex}
 	\input{chapitre3.tex}
-	
-
-\newpage
-
-
-\addcontentsline{toc}{section}{Conclusion}
-\input{conclusion.tex}
+	\input{conclusion.tex}
 
 \newpage
 \bibliographystyle{unsrt}
-\bibliography{bibli.bib} % mon fichier de base de données s'appelle bibli.bib
+\bibliography{bibli} % mon fichier de base de données s'appelle bibli.bib
 
 	
 	

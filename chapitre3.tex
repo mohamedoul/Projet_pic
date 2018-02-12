@@ -5,50 +5,88 @@ Ce chapitre est l’occasion pour présenter les différents langage et outils u
 
 
 \section {Réalisation du projet }
-\subsection {Langages, outils et formats de données utilisés}
-\subsubsection {Langage R}
+\subsection {Langages \& outils utilisés}
+\subsubsection {Langage R \& package Shiny}
 
-%\begin{figure}[!h]
-%	\center
-%	\includegraphics[scale=0.2]{R_logo.png}
-%	\caption {Le logo du langage R}
-%\end{figure}
-R est un langage de programmation et un logiciel libre dédié aux statistiques et à la science des données soutenu par la R Foundation for Statistical Computing. Il est dérivé du langage S développé par John Chambers et ses collègues au sein des laboratoires Bell.
-Le projet R naît en 1993 comme un projet de recherche de Ross Ihaka et Robert Gentleman à l'université d'Auckland (Nouvelle-Zélande). 
-Le langage R existe en plusieurs distribution, cependant la plus connue demeure celle du R Project et du Comprehensive R Archive Network (CRAN). Il existe d'autres distributions comme la distribution proposée par Microsoft14 ou encore celle de l'entreprise Oracle, Oracle R Distribution15.
-R a été adopté en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.2]{img/R_logo.png}
+	\caption {Le logo du R project}
+\end{figure}
+R est un langage de programmation et un logiciel libre dédié aux statistiques et à la science des données soutenu par la R Foundation for Statistical Computing. Il est dérivé du langage S développé par John Chambers et ses collègues au sein des laboratoires Bell.\\
+Le projet R naît en 1993 comme un projet de recherche de Ross Ihaka et Robert Gentleman à l'université d'Auckland (Nouvelle-Zélande). \\
+Le langage R existe en plusieurs distribution, cependant la plus connue demeure celle du R Project et du Comprehensive R Archive Network (CRAN). Il existe d'autres distributions comme la distribution proposée par Microsoft14 ou encore celle de l'entreprise Oracle, Oracle R Distribution15.\\
+
+\begin{figure}
+	\center
+	\includegraphics[scale=0.3]{img/Shiny_logo.png}
+	\caption {Le logo de Shiny}
+\end{figure}
+Shiny est un package R qui permet la création d'applications Web interactives directement à partir de R. Il permet d’héberger des applications autonomes sur une page Web ou les intégrer dans des documents R Markdown ou créer des tableaux de bord. Il offre également la possibilité d’étendre les applications Shiny avec des thèmes CSS, html widgets et des actions JavaScript, car le package entier repose sur ces différents langages. \\
+
+Shiny permet de déployer une page web gérée par R et soutenu par HTML, CSS, Javascript et des framework reconnus comme Bootstrap ou encore Datatables.\\
+
+
+R en combinaison avec Shiny ont étés adoptés en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
 \begin{itemize} 
 \item Les statistiques relatives aux classements des sportifs  devront être  faites en un langage capable de traiter des données volumineuses (les données relatives aux challenges dans le cas de notre projet) en réduisant au maximum les ressources utilisés en mémoire.
 \item Des raisons pédagogiques. En fait, ce projet est l’occasion de découvrir les avantages et les limitations du langage R en termes de réalisation d’interfaces graphiques dynamiques et interactives.
 \item La simplicité de développement : R est un langage dit de "Haut niveau", c'est à dire d'après Wikipédia : "un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers."
 \item Un premier algorithme de classement a déjà été écrit, et fourni, en R.
 \end{itemize}
-Cependant, les points suivants ont étés soulevés par les étudiants concernant le langage R :
+
+Cependant, les points suivants ont étés soulevés par les étudiants :
 
 \begin{itemize} 
-	\item Déployer un serveur web fonctionnant sous R n'est pas commun. Les hébergements web sont généralement en php.
+	\item Déployer un serveur web fonctionnant sous R et Shiny n'est pas commun. Les hébergements web sont généralement en php.
 	\item Les données concernés ne sont actuellement pas volumineuse, n'importe quel autre langage peut se permettre de les traiter avec autant d'efficacité.
+	\item Shiny, avec l'appui des langages HTML, CSS et Javascript, se contente de générer une seule page web. Ce principe reste très réducteur de la fonction d'un site internet. De plus, cela oblige l'utilisateur à charger l'intégralité du site en une seule fois, incluant l'intégralité des données.
+	\item Shiny permettant également de créer l'interface graphique, les étudiants ont émis des doutes quand à la création d'une interface graphique dynamique.
 \end{itemize}
-\newpage
-\subsubsection {Package Shiny}
 
-%\begin{figure}
-%	\center
-%	\includegraphics[scale=0.3]{Shiny_logo.png}
-%	\caption {Le logo de Shiny}
-%\end{figure}
-Shiny est un package R qui permet la création d'applications Web interactives directement à partir de R. Il permet d’héberger des applications autonomes sur une page Web ou les intégrer dans des documents R Markdown ou créer des tableaux de bord. Il offre également la possibilité d’étendre les applications Shiny avec des thèmes CSS, html widgets et des actions JavaScript, car le package entier repose sur ces différents langages.
-
-Shiny permet de déployer une page web gérée par R et soutenu par HTML, CSS, Javascript et des framework reconnus comme Bootstrap ou encore Datatables.
-Shiny a donc été choisi pour les mêmes raisons que R, cependant les points suivants ont étés soulevés par les étudiants concernant l'utilisation de cet outil :
+Pour le projet, les packages suivants ont également étés utilisés :
 
 \begin{itemize} 
-	\item 
+	\item "shinythemes", afin d'avoir une page web élégante.
+	\item "DT", alias "DataTables", qui nous permet d'afficher des tableaux dynamiques avec énormément d'options intéressantes (Recherche, tri, mise en forme...)
+	\item "xlsx", qui nous permet d'utiliser des fichiers Excel (Lire, enregistrer).
+	\item "plyr", pour de la manipulation de tableaux avancée.
+	\item "stats", pour des fonctions de statistique intéressante.
+	\item "ggplot2", afin d'afficher des graphiques plus perfectionnés.
 \end{itemize}
 
-  
+\newpage
+\subsubsection {GitHub, LaTex, RStudio}
 
-\subsection {Les interfaces du projet }
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.2]{img/desktop-logo.png}
+	\caption {Le logo de GitHub}
+\end{figure}
+GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. \\
+Le versionnage permet de travailler à plusieurs ur un code informatique, et de conserver l'historique des modifications du code. \\
+GitHub propose ses services aux entreprises, mais le statut étudiant nous permet de privilégier d'un compte gratuit, nous permettant d'héberger notre code dans des répertoires privés.\\
+
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.1]{img/latex.png}
+	\caption {Le logo de LaTex}
+\end{figure}
+
+LaTex est un langage et un système de composition de documents, qui nous a permis d'écrire ce rapport de manière efficace.
+
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.2]{img/rstudio.png}
+	\caption {Le logo de LaTex}
+\end{figure}
+
+RStudio est un environnement de développement gratuit, libre et multiplateforme pour R.
+L'ensemble des développements de ce projet ont étés effectués avec ce logiciel.
+
+
+
+\subsection {Les deux outils distincts du projet}
 Pour permettre à l’utilisateur de bénéficier des fonctionnalités de notre logiciel, nous avons réalisé deux interfaces web. En effet, la première sera utilisée uniquement par l’administrateur de la ligue afin d’ajouter les différentes courses au challenge correspondant et également de consulter les informations et les statistiques relatives aux clubs et aux adhérents.
 La figure ci-après montre un aperçu de notre interface. 
 
@@ -82,10 +120,9 @@ La figure ci-après illustre cette interface:
 
 
 \subsection {Etudes des options du déploiement du projet }
-\input{deploiement.tex}
+
 \subsection {La documentation automatique  }
-\input{doc.tex}
 \subsection {Schéma des tests }
 
 \subsection {Contraintes et acquis }
-\input{contraintesAcquis.tex}
+\newpage
