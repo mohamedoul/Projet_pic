@@ -40,7 +40,7 @@
     \textsc{\Large }\\[1.5cm]
 
     \HRule \\[0.4cm]
-    { \huge \bfseries Rapport du projet d'Innovation et de conceptionr\\[0.4cm] }
+    { \huge \bfseries Rapport du projet d'Innovation et de conception\\[0.4cm] }
 
     \HRule \\[2cm]
     \includegraphics[scale=1]{logo.png}
@@ -88,22 +88,24 @@
 	\newpage
 	\addcontentsline{toc}{section}{Introduction}
 	\section*{Introduction}
-	Dans un contexte marqué par l’émergence du web, le besoin accru de l’informatisation et de l’automatisation des gestions, nous avons développé un site web pour permettre à la ligue des Hauts-de-France de mettre à jour les challenges organisés durant chaque année et aux participants de consulter leurs résultats.
+	Dans un contexte marqué par l’émergence du web, le besoin accru d'informatisation et d'automatisation des gestions, nous avons développé un site web pour permettre à la ligue des Hauts-de-France de mettre à jour les challenges organisés durant chaque année et aux participants de consulter leurs résultats.
 	En effet, le long du processus de développement allant des premières phases de la définition des besoins fonctionnels du client jusqu’aux phases de création et de test, nous avons fixé trois lignes de conduite, à savoir :
 	\begin{enumerate}
-	\item Le site web doit satisfaire les besoins de ses utilisateurs et des administrateurs ;
-	\item Il doit répondre aux qualités requises en matière de maintenabilité et de portabilité ;
+	\item Le site web doit satisfaire les besoins de ses utilisateurs et des administrateurs
+	\item Il doit répondre aux qualités requises en matière de maintenabilité et de portabilité
 	\end{enumerate}
 	Afin de mettre la lumière sur les différentes démarches suivies pour l’aboutissement de ce travail, nous avons scindé ce rapport en trois grandes parties. Dans cette optique, la première sera réservée à l’illustration du contexte général du projet, tandis que la deuxième sera consacrée à l’étude analytique des différents processus de données et des phases de notre projet. Alors que la 3ème partie sera dédiée à la présentation des langages utilisés pour la réalisation du site web, de ses interfaces ainsi que des tests mis en œuvre pour s’assurer de son bon fonctionnement. Par ailleurs, il convient de préciser que ce rapport sera joint d’un guide d’utilisation qui sera mis à la disposition aux administrateurs de la ligue.
-	\chapter{Context général du projet}
-	Cette partie traitera du contexte général de notre projet d’Innovation et de Conception, en mettant l’accent essentiellement sur une brève présentation du maître d'ouvrage et de ses exigences fonctionnelles. Egalement, la méthodologie de travail adoptée ainsi que la planification du projet seront mises en avant.  
+	\chapter{Contexte général du projet}
+	Cette partie traitera du contexte général de notre projet d’Innovation et de Conception, en mettant l’accent essentiellement sur une brève présentation du maître d'ouvrage et de ses exigences fonctionnelles. Également, la méthodologie de travail adoptée ainsi que la planification du projet seront mises en avant.  
 	
 	\newpage
-	\section {Context général du projet}
+	\section {Contexte général du projet}
 	\subsection{La ligue des Hauts-de-France du triathlon }
 	
 	La Ligue des Hauts-de-France de Triathlon est un organe décentralisé de la F.F.TRI. Elle est administrée par un Comité Directeur et un Bureau Directeur composés de membres élus en son sein. 
 	Pour fonctionner, la ligue Hauts-de-France, a constitué plusieurs commissions dont chacune est présidée par un membre du Comité Directeur et composées de membres de la ligue volontaires et choisis pour leurs compétences.
+	Celle-ci n'a été créé que récemment, car elle fait suite à la fusion des régions Picardie et Nord-Pas-de-Calais.
+	L'assemblée générale s'est alors tenu le 03 février 2018, \href{http://triathlonhdf.fr/samedi-03-fevrier-2018-la-ligue-des-hauts-de-france-de-triathlon-est-creee/}{un court article a été rédigée sur leur nouveau site web à l'adresse triathlonhdf.fr} \cite{ref1}
 	
 	\subsection{Description du processus de l’organisation des challenges }
 	L’organisateur de la course envoie les informations de tous les participants ainsi que leurs classements à la ligue. Ces fichiers sont envoyés sous formats PDF, Word, Tableurs Excel voire même papier.  Ces données sont envoyées à la ligue sans aucun traitement ou filtrage. Par conséquent, les administrateurs de la ligue ont pour première tâche de supprimer les participants qui ne sont pas inscrits au niveau de la ligue, et également de traiter le problème des homonymes d’une manière manuelle. Tâche qui demeure difficile et demande du temps.
@@ -205,7 +207,7 @@ Ce diagramme permet de dégager trois packages principaux qui seront détaillés
 
 
 
-\subsection {Les cas d’utilisation  }
+\subsection {Les cas d’utilisation}
 
 \subsubsection{Définition}
 Les cas d'utilisation sont définis par une description textuelle, décrivant les objectifs et interactions entre le système et ses acteurs. Le format de présentation textuelle des cas d'utilisation est libre.
@@ -370,8 +372,8 @@ La figure ci-après illustre cette interface:
 En somme, notre projet qui consistait en la réalisation d’un logiciel permettant  la gestion et la mise à jour des challenges au profit de la fédération Française de triathlon, nous a permis dans un premier temps de prendre contact avec le maitre d’ouvrage afin de  déterminer et de statuer sur ses besoins fonctionnels. Egalement, il nous a permis de comprendre le processus de l’organisation des courses et de la mise à jour des challenges organisés par le Fédération Française du Triathlon. Par ailleurs, le projet était pour l’occasion pour mettre en pratique les acquis théoriques relatifs aux méthodes de gestion de projet, essentiellement SCRUM, de réaliser la conception moyennant le langage de modélisation UML ainsi   que la manipulation de nouveaux langages informatiques essentiellement R et son serveur dédié Shiny.\\
 En termes de perspectives, malgré que le langage R soit puissant en termes de calcul et de manipulation des statistiques des données volumineuses tout en diminuant la complexité des traitements. Néanmoins, il demeure limité en termes d’interfaces graphiques dynamiques, comparé à d’autres langages dédiés au web comme le PHP ou le JAVA EE. Ainsi et vu que le nombre de courses organisées durant l’année est limité et que les challenges de chaque année sont traités séparément, il serait donc judicieux, dans le cadre de l’évolution du projet de le reprendre en utilisant un langage dédié au web en assurant la persistance donnée par une base de données et également d’implémenter le module relatif à l’organisation de la course afin que le système d’information soit entièrement.
 
-
-
+\bibliographystyle{unsrt}
+\bibliography{bibli} % mon fichier de base de données s'appelle bibli.bib
 
 	
 	
