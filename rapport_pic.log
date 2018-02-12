@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 21:11
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1024,17 +1024,18 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 32.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<logo_png.png, id=99, 166.37157pt x 161.85469pt>
-File: logo_png.png Graphic file (type png)
-<use logo_png.png>
-Package pdftex.def Info: logo_png.png  used on input line 35. on input line 35.
-
+<img/logo_png.png, id=99, 166.37157pt x 161.85469pt>
+File: img/logo_png.png Graphic file (type png)
+<use img/logo_png.png>
+Package pdftex.def Info: img/logo_png.png  used on input line 35. on input line
+ 35.
 Package pdftex.def Info: Requested size: 133.09741pt x 129.4839pt on input line
  35.
-<eilco.png, id=101, 304.4976pt x 128.1588pt>
-File: eilco.png Graphic file (type png)
-<use eilco.png>
-Package pdftex.def Info: eilco.png  used on input line 36. on input line 36.
+<img/eilco.png, id=101, 304.4976pt x 128.1588pt>
+File: img/eilco.png Graphic file (type png)
+<use img/eilco.png>
+Package pdftex.def Info: img/eilco.png  used on input line 36. on input line 36
+.
 Package pdftex.def Info: Requested size: 213.14687pt x 89.71054pt on input line
  36.
 
@@ -1046,10 +1047,11 @@ LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <17.28> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 39.
 
-<logo.png, id=102, 304.4976pt x 128.1588pt>
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 45. on input line 45.
+<img/logo.png, id=102, 304.4976pt x 128.1588pt>
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 45. on input line 45.
+
 Package pdftex.def Info: Requested size: 304.49686pt x 128.15848pt on input lin
 e 45.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
@@ -1111,8 +1113,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
 [1
 
-{C:/Users/Félix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo_png
-.png> <./eilco.png> <./logo.png>] (rapport_pic.toc)
+{C:/Users/Félix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo
+_png.png> <./img/eilco.png> <./img/logo.png>] (rapport_pic.toc)
 \tf@toc=\write4
 \openout4 = `rapport_pic.toc'.
 
@@ -1134,11 +1136,11 @@ Chapitre 1.
 [4
 
 ] [5]
-<points_categorie_adultes.png, id=196, 575.90157pt x 48.93282pt>
-File: points_categorie_adultes.png Graphic file (type png)
-<use points_categorie_adultes.png>
-Package pdftex.def Info: points_categorie_adultes.png  used on input line 128. 
-on input line 128.
+<img/points_categorie_adultes.png, id=196, 575.90157pt x 48.93282pt>
+File: img/points_categorie_adultes.png Graphic file (type png)
+<use img/points_categorie_adultes.png>
+Package pdftex.def Info: img/points_categorie_adultes.png  used on input line 1
+28. on input line 128.
 Package pdftex.def Info: Requested size: 575.90016pt x 48.93268pt on input line
  128.
 
@@ -1146,11 +1148,11 @@ Overfull \hbox (92.2033pt too wide) in paragraph at lines 128--129
  [] 
  []
 
-<points_categorie_jeunes.png, id=197, 584.93532pt x 264.99pt>
-File: points_categorie_jeunes.png Graphic file (type png)
-<use points_categorie_jeunes.png>
-Package pdftex.def Info: points_categorie_jeunes.png  used on input line 144. o
-n input line 144.
+<img/points_categorie_jeunes.png, id=197, 584.93532pt x 264.99pt>
+File: img/points_categorie_jeunes.png Graphic file (type png)
+<use img/points_categorie_jeunes.png>
+Package pdftex.def Info: img/points_categorie_jeunes.png  used on input line 14
+4. on input line 144.
 Package pdftex.def Info: Requested size: 526.43692pt x 238.48878pt on input lin
 e 144.
 
@@ -1158,12 +1160,12 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 144--145
  [] 
  []
 
-[6 <./points_categorie_adultes.png> <./points_categorie_jeunes.png>]
-<recapitulatif_modalite_challenge.png, id=205, 584.93532pt x 264.99pt>
-File: recapitulatif_modalite_challenge.png Graphic file (type png)
-<use recapitulatif_modalite_challenge.png>
-Package pdftex.def Info: recapitulatif_modalite_challenge.png  used on input li
-ne 155. on input line 155.
+[6 <./img/points_categorie_adultes.png> <./img/points_categorie_jeunes.png>]
+<img/recapitulatif_modalite_challenge.png, id=205, 584.93532pt x 264.99pt>
+File: img/recapitulatif_modalite_challenge.png Graphic file (type png)
+<use img/recapitulatif_modalite_challenge.png>
+Package pdftex.def Info: img/recapitulatif_modalite_challenge.png  used on inpu
+t line 155. on input line 155.
 Package pdftex.def Info: Requested size: 526.43692pt x 238.48878pt on input lin
 e 155.
 
@@ -1171,12 +1173,12 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 155--156
  [] 
  []
 
-[7 <./recapitulatif_modalite_challenge.png>]
-<Diagramme_Gantt.png, id=210, 551.05875pt x 242.40562pt>
-File: Diagramme_Gantt.png Graphic file (type png)
-<use Diagramme_Gantt.png>
-Package pdftex.def Info: Diagramme_Gantt.png  used on input line 183. on input 
-line 183.
+[7 <./img/recapitulatif_modalite_challenge.png>]
+<img/Diagramme_Gantt.png, id=210, 551.05875pt x 242.40562pt>
+File: img/Diagramme_Gantt.png Graphic file (type png)
+<use img/Diagramme_Gantt.png>
+Package pdftex.def Info: img/Diagramme_Gantt.png  used on input line 183. on in
+put line 183.
 Package pdftex.def Info: Requested size: 495.94827pt x 218.16302pt on input lin
 e 183.
 
@@ -1187,134 +1189,128 @@ Overfull \hbox (12.2514pt too wide) in paragraph at lines 183--184
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9 <./Diagramme_Gantt.png>]
+[8] [9 <./img/Diagramme_Gantt.png>]
 Chapitre 2.
 [10
 
 ]
-<Diagramme_de_packages.png, id=223, 535.2497pt x 216.05719pt>
-File: Diagramme_de_packages.png Graphic file (type png)
-<use Diagramme_de_packages.png>
-Package pdftex.def Info: Diagramme_de_packages.png  used on input line 202. on 
-input line 202.
+<img/Diagramme_de_packages.png, id=223, 535.2497pt x 216.05719pt>
+File: img/Diagramme_de_packages.png Graphic file (type png)
+<use img/Diagramme_de_packages.png>
+Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 202.
+ on input line 202.
 Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
 e 202.
- [11 <./Diagramme_de_packages.png>]
-<Diagramme_cas_utilisation_organisation_course.png, id=232, 463.7325pt x 313.17
-pt>
-File: Diagramme_cas_utilisation_organisation_course.png Graphic file (type png)
-
-<use Diagramme_cas_utilisation_organisation_course.png>
-Package pdftex.def Info: Diagramme_cas_utilisation_organisation_course.png  use
-d on input line 224. on input line 224.
+ [11 <./img/Diagramme_de_packages.png>]
+<img/Diagramme_cas_utilisation_organisation_course.png, id=232, 463.7325pt x 31
+3.17pt>
+File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type 
+png)
+<use img/Diagramme_cas_utilisation_organisation_course.png>
+Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png 
+ used on input line 224. on input line 224.
 Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
 e 224.
-<Diagramme_cas_utilisation_administration_challenge.png, id=233, 455.45157pt x 
-283.81032pt>
-File: Diagramme_cas_utilisation_administration_challenge.png Graphic file (type
- png)
-<use Diagramme_cas_utilisation_administration_challenge.png>
-Package pdftex.def Info: Diagramme_cas_utilisation_administration_challenge.png
-  used on input line 241. on input line 241.
+<img/Diagramme_cas_utilisation_administration_challenge.png, id=233, 455.45157p
+t x 283.81032pt>
+File: img/Diagramme_cas_utilisation_administration_challenge.png Graphic file (
+type png)
+<use img/Diagramme_cas_utilisation_administration_challenge.png>
+Package pdftex.def Info: img/Diagramme_cas_utilisation_administration_challenge
+.png  used on input line 241. on input line 241.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
 e 241.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Diagramme_cas_utilisation_consultation_resultats.png, id=234, 455.45157pt x 28
-3.81032pt>
-File: Diagramme_cas_utilisation_consultation_resultats.png Graphic file (type p
-ng)
-<use Diagramme_cas_utilisation_consultation_resultats.png>
-Package pdftex.def Info: Diagramme_cas_utilisation_consultation_resultats.png  
-used on input line 248. on input line 248.
+<img/Diagramme_cas_utilisation_consultation_resultats.png, id=234, 455.45157pt 
+x 283.81032pt>
+File: img/Diagramme_cas_utilisation_consultation_resultats.png Graphic file (ty
+pe png)
+<use img/Diagramme_cas_utilisation_consultation_resultats.png>
+Package pdftex.def Info: img/Diagramme_cas_utilisation_consultation_resultats.p
+ng  used on input line 248. on input line 248.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
 e 248.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Diagramme_classes.png, id=235, 792.71156pt x 383.18156pt>
-File: Diagramme_classes.png Graphic file (type png)
-<use Diagramme_classes.png>
-Package pdftex.def Info: Diagramme_classes.png  used on input line 260. on inpu
-t line 260.
+<img/Diagramme_classes.png, id=235, 792.71156pt x 383.18156pt>
+File: img/Diagramme_classes.png Graphic file (type png)
+<use img/Diagramme_classes.png>
+Package pdftex.def Info: img/Diagramme_classes.png  used on input line 260. on 
+input line 260.
 Package pdftex.def Info: Requested size: 713.43382pt x 344.86021pt on input lin
 e 260.
-[12 <./Diagramme_cas_utilisation_organisation_course.png>]
+[12 <./img/Diagramme_cas_utilisation_organisation_course.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13 <./Diagramme_cas_utilisation_administration_challenge.png> <./Diagramme_cas
-_utilisation_consultation_resultats.png>]
-<Diagramme_activites.png, id=247, 736.25063pt x 354.57469pt>
-File: Diagramme_activites.png Graphic file (type png)
-<use Diagramme_activites.png>
-Package pdftex.def Info: Diagramme_activites.png  used on input line 294. on in
-put line 294.
+[13 <./img/Diagramme_cas_utilisation_administration_challenge.png> <./img/Diagr
+amme_cas_utilisation_consultation_resultats.png>]
+<img/Diagramme_activites.png, id=247, 736.25063pt x 354.57469pt>
+File: img/Diagramme_activites.png Graphic file (type png)
+<use img/Diagramme_activites.png>
+Package pdftex.def Info: img/Diagramme_activites.png  used on input line 294. o
+n input line 294.
 Package pdftex.def Info: Requested size: 662.61945pt x 319.11427pt on input lin
 e 294.
  [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15] [16 <./Diagramme_classes.png>] [17 <./Diagramme_activites.png>]
+[15] [16 <./img/Diagramme_classes.png>] [17 <./img/Diagramme_activites.png>]
 Chapitre 3.
 [18
 
 ]
-<R_logo.png, id=272, 392.46625pt x 366.36874pt>
-File: R_logo.png Graphic file (type png)
-<use R_logo.png>
-Package pdftex.def Info: R_logo.png  used on input line 314. on input line 314.
-
+<img/R_logo.png, id=272, 392.46625pt x 366.36874pt>
+File: img/R_logo.png Graphic file (type png)
+<use img/R_logo.png>
+Package pdftex.def Info: img/R_logo.png  used on input line 314. on input line 
+314.
 Package pdftex.def Info: Requested size: 78.49185pt x 73.27245pt on input line 
 314.
-<Shiny_logo.png, id=273, 281.05pt x 281.05pt>
-File: Shiny_logo.png Graphic file (type png)
-<use Shiny_logo.png>
-Package pdftex.def Info: Shiny_logo.png  used on input line 338. on input line 
-338.
-Package pdftex.def Info: Requested size: 56.209pt x 56.209pt on input line 338.
+<img/Shiny_logo.png, id=273, 281.05pt x 281.05pt>
+File: img/Shiny_logo.png Graphic file (type png)
+<use img/Shiny_logo.png>
+Package pdftex.def Info: img/Shiny_logo.png  used on input line 323. on input l
+ine 323.
+Package pdftex.def Info: Requested size: 84.31564pt x 84.31564pt on input line 
+323.
+ [19 <./img/R_logo.png> <./img/Shiny_logo.png>]
+<img/A_faire.png, id=281, 161.10187pt x 155.83218pt>
+File: img/A_faire.png Graphic file (type png)
+<use img/A_faire.png>
+Package pdftex.def Info: img/A_faire.png  used on input line 370. on input line
+ 370.
+Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
+70.
+ [20 <./img/A_faire.png>]
+File: img/A_faire.png Graphic file (type png)
+<use img/A_faire.png>
+Package pdftex.def Info: img/A_faire.png  used on input line 392. on input line
+ 392.
+Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
+92.
 
- [19 <./R_logo.png>]
-<A_faire.png, id=281, 161.10187pt x 155.83218pt>
-File: A_faire.png Graphic file (type png)
-<use A_faire.png>
-Package pdftex.def Info: A_faire.png  used on input line 351. on input line 351
-.
-Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
-51.
-File: A_faire.png Graphic file (type png)
-<use A_faire.png>
-Package pdftex.def Info: A_faire.png  used on input line 373. on input line 373
-.
-Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
-73.
- [20 <./Shiny_logo.png> <./A_faire.png>] [21] [22]
-(rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+[21] [22] (rapport_pic.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
  [23
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
  (rapport_pic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
-
-
-Package rerunfilecheck Warning: File `rapport_pic.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `rapport_pic.out':
-(rerunfilecheck)             Before: 78BFF43D202FC70F2FFF743BB9709083;1890
-(rerunfilecheck)             After:  BCFF9B4757CD5394A5E62916C6C1B149;1913.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
+(rerunfilecheck)             Checksum: 79740F2397B1BDDD4485BFBDF35AF298;1912.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 416.
  ) 
 Here is how much of TeX's memory you used:
- 10774 strings out of 493312
- 154706 string characters out of 3140192
+ 10775 strings out of 493312
+ 154966 string characters out of 3140192
  247037 words of memory out of 3000000
  14025 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
@@ -1326,7 +1322,7 @@ ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (24 pages, 1105883 bytes).
+Output written on rapport_pic.pdf (24 pages, 1107332 bytes).
 PDF statistics:
  342 PDF objects out of 1000 (max. 8388607)
  81 named destinations out of 1000 (max. 500000)
