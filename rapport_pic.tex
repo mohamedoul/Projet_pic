@@ -1,22 +1,9 @@
-\documentclass[12pt,a4paper]{report}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\input{preambule.tex}%
+\begin{document}%
 	
-\usepackage[francais]{babel}
-\usepackage{lmodern}
-\usepackage {textcomp}
-\usepackage{amssymb}
-\usepackage{mathrsfs}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{rotating}
-\usepackage{graphicx}
-\usepackage{enumitem}
-\usepackage{eurosym}
-\usepackage[a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-\usepackage{hyperref}
-\usepackage{gensymb}
+\input{pageCouverture.tex}
 
+<<<<<<< Updated upstream
 \usepackage{listings,color}
 
 \definecolor{verbgray}{gray}{0.9}
@@ -72,6 +59,8 @@
   \end{center}
   \end{sffamily}
 \end{titlepage}
+=======
+>>>>>>> Stashed changes
 	
 	\newpage
 	
@@ -80,33 +69,15 @@
 	\newpage
 	
 	\listoffigures
-	
+	\addcontentsline{toc}{section}{Table des figures}
 	\newpage
 	\addcontentsline{toc}{section}{Introduction}
-	\section*{Introduction}
-	Dans un contexte marqué par l’émergence du web, le besoin accru d'informatisation et d'automatisation des gestions, nous avons développé un site web pour permettre à la ligue des Hauts-de-France de mettre à jour les challenges organisés durant chaque année et aux participants de consulter leurs résultats.
-	En effet, le long du processus de développement allant des premières phases de la définition des besoins fonctionnels du client jusqu’aux phases de création et de test, nous avons fixé trois lignes de conduite, à savoir :
-	\begin{enumerate}
-	\item Le site web doit satisfaire les besoins de ses utilisateurs et des administrateurs
-	\item Il doit répondre aux qualités requises en matière de maintenabilité et de portabilité
-	\end{enumerate}
-	Afin de mettre la lumière sur les différentes démarches suivies pour l’aboutissement de ce travail, nous avons scindé ce rapport en trois grandes parties. Dans cette optique, la première sera réservée à l’illustration du contexte général du projet, tandis que la deuxième sera consacrée à l’étude analytique des différents processus de données et des phases de notre projet. Alors que la 3ème partie sera dédiée à la présentation des langages utilisés pour la réalisation du site web, de ses interfaces ainsi que des tests mis en œuvre pour s’assurer de son bon fonctionnement. Par ailleurs, il convient de préciser que ce rapport sera joint d’un guide d’utilisation qui sera mis à la disposition aux administrateurs de la ligue.
-	\chapter{Contexte général du projet}
-	Cette partie traitera du contexte général de notre projet d’Innovation et de Conception, en mettant l’accent essentiellement sur une brève présentation du maître d'ouvrage et de ses exigences fonctionnelles. Également, la méthodologie de travail adoptée ainsi que la planification du projet seront mises en avant.  
+	\input{introduction.tex}
+	\input{chapitre1.tex}
+	\input{chapitre2.tex}
 	
-	\newpage
-	\section {Contexte général du projet}
-	\subsection{La ligue des Hauts-de-France du triathlon }
 	
-	La Ligue des Hauts-de-France de Triathlon est un organe décentralisé de la F.F.TRI. Elle est administrée par un Comité Directeur et un Bureau Directeur composés de membres élus en son sein. 
-	Pour fonctionner, la ligue Hauts-de-France, a constitué plusieurs commissions dont chacune est présidée par un membre du Comité Directeur et composées de membres de la ligue volontaires et choisis pour leurs compétences.
-	Celle-ci n'a été créé que récemment, car elle fait suite à la fusion des régions Picardie et Nord-Pas-de-Calais.
-	L'assemblée générale s'est alors tenu le 03 février 2018, \href{http://triathlonhdf.fr/samedi-03-fevrier-2018-la-ligue-des-hauts-de-france-de-triathlon-est-creee/}{un court article a été rédigée sur leur nouveau site web à l'adresse triathlonhdf.fr} \cite{ref1}
-	
-	\subsection{Description du processus de l’organisation des challenges }
-	L’organisateur de la course envoie les informations de tous les participants ainsi que leurs classements à la ligue. Ces fichiers sont envoyés sous formats PDF, Word, Tableurs Excel voire même papier.  Ces données sont envoyées à la ligue sans aucun traitement ou filtrage. Par conséquent, les administrateurs de la ligue ont pour première tâche de supprimer les participants qui ne sont pas inscrits au niveau de la ligue, et également de traiter le problème des homonymes d’une manière manuelle. Tâche qui demeure difficile et demande du temps.
-	Une fois les données sont actualisées, les fichiers challenge sont mis à jour et les classements globaux sont établis. L’ensemble de ces opérations sont faites moyennant des fichiers Excel.
-	
+<<<<<<< Updated upstream
 	
 	\subsection{Les modalités du challenge  }
 	Les challenges organisés sont soumis à plusieurs règles qui sont répertoriées comme suit :
@@ -299,6 +270,8 @@ Le diagramme illustré dans la figure ci-dessous montre le diagramme d’activit
 \newpage
 
 
+=======
+>>>>>>> Stashed changes
 \chapter{Réalisation du projet}
 Ce chapitre est l’occasion pour présenter les différents langage et outils utilisés pour réaliser le projet. Également, la mise en avant des différentes interfaces mises en œuvres pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
 

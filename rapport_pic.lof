@@ -1,4 +1,4 @@
-\select@language {french}
+\babel@toc {french}{}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie adultes selon leurs classements}}{6}{figure.1.1}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie jeunes selon leurs classements}}{6}{figure.1.2}
@@ -12,6 +12,7 @@
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Le diagramme de classes du projet.}}{16}{figure.2.5}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s du projet}}{17}{figure.2.6}
 \addvspace {10\p@ }
+<<<<<<< Updated upstream
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Le logo du R project}}{19}{figure.3.1}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Le logo de Shiny}}{19}{figure.3.2}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Le logo de GitHub}}{21}{figure.3.3}
@@ -19,3 +20,9 @@
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Le logo de LaTex}}{21}{figure.3.5}
 \contentsline {figure}{\numberline {3.6}{\ignorespaces A faire }}{22}{figure.3.6}
 \contentsline {figure}{\numberline {3.7}{\ignorespaces A faire }}{22}{figure.3.7}
+=======
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Le logo du langage R}}{19}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Le logo de Shiny}}{20}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces A faire }}{20}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces A faire }}{21}{figure.3.4}
+>>>>>>> Stashed changes
