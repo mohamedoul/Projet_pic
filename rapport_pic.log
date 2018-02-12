@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 19:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  12 FEB 2018 20:22
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -673,6 +673,9 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
+("D:\Programmes\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
 ("D:\Programmes\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -693,17 +696,26 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 \Gin@req@height=\dimen115
 \Gin@req@width=\dimen116
 )
+("D:\Programmes\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count109
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box28
+\rot@mess@toks=\toks27
+)
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip51
+\labelindent=\skip53
 \enit@outerparindent=\dimen117
-\enit@toks=\toks27
-\enit@inbox=\box28
-\enitdp@description=\count109
+\enit@toks=\toks28
+\enit@inbox=\box29
+\enitdp@description=\count110
 )
 ("D:\Programmes\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box29
+\@eurobox=\box30
 )
 ("D:\Programmes\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -718,9 +730,9 @@ Package ifvtex Info: VTeX not detected.
 ("D:\Programmes\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count110
-\Gm@cntv=\count111
-\c@Gm@tempcnt=\count112
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
 \Gm@bindingoffset=\dimen118
 \Gm@wd@mp=\dimen119
 \Gm@odd@mp=\dimen120
@@ -729,7 +741,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen123
 \Gm@layouthoffset=\dimen124
 \Gm@layoutvoffset=\dimen125
-\Gm@dimlist=\toks28
+\Gm@dimlist=\toks29
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("D:\Programmes\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
@@ -785,15 +797,15 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen126
-\Hy@linkcounter=\count113
-\Hy@pagecounter=\count114
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count115
+\Hy@SavedSpaceFactor=\count116
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -805,7 +817,7 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count116
+\c@Hy@tempcnt=\count117
 
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
@@ -813,7 +825,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen127
-\Fld@menulength=\count117
+\Fld@menulength=\count118
 \Field@Width=\dimen128
 \Fld@charsize=\dimen129
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -825,47 +837,47 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count118
-\c@Item=\count119
-\c@Hfootnote=\count120
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count121
-\c@bookmark@seq@number=\count122
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip54
 )
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\was\gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
-\lst@mode=\count123
-\lst@gtempboxa=\box30
-\lst@token=\toks29
-\lst@length=\count124
+\lst@mode=\count124
+\lst@gtempboxa=\box31
+\lst@token=\toks30
+\lst@length=\count125
 \lst@currlwidth=\dimen130
-\lst@column=\count125
-\lst@pos=\count126
+\lst@column=\count126
+\lst@pos=\count127
 \lst@lostspace=\dimen131
 \lst@width=\dimen132
-\lst@newlines=\count127
-\lst@lineno=\count128
+\lst@newlines=\count128
+\lst@lineno=\count129
 \lst@maxwidth=\dimen133
 
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count129
-\lst@skipnumbers=\count130
-\lst@framebox=\box31
+\c@lstnumber=\count130
+\lst@skipnumbers=\count131
+\lst@framebox=\box32
 )
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -919,17 +931,17 @@ LaTeX Info: Redefining \up on input line 28.
 
 (C:\Users\Félix\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count131
+\scratchcounter=\count132
 \scratchdimen=\dimen134
-\scratchbox=\box32
-\nofMPsegments=\count132
-\nofMParguments=\count133
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count134
+\scratchbox=\box33
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count135
 \MPscratchDim=\dimen135
-\MPnumerator=\count135
-\makeMPintoPDFobject=\count136
-\everyMPtoPDFconversion=\toks31
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks32
 ) ("D:\Programmes\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -977,7 +989,7 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box33
+\AtBeginShipoutBox=\box34
 Package hyperref Info: Link coloring OFF on input line 28.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -985,7 +997,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("D:\Programmes\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count137
+\c@section@level=\count138
 )
 LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
@@ -1006,7 +1018,7 @@ erthousand on input line 28.
 LaTeX Info: Redefining \ohm on input line 28.
 Package gensymb Info: Using \textohm for \ohm on input line 28.
 Package gensymb Info: Using \textmu for \micro on input line 28.
-\c@lstlisting=\count138
+\c@lstlisting=\count139
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 32.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
@@ -1165,130 +1177,158 @@ File: Diagramme_Gantt.png Graphic file (type png)
 <use Diagramme_Gantt.png>
 Package pdftex.def Info: Diagramme_Gantt.png  used on input line 183. on input 
 line 183.
-Package pdftex.def Info: Requested size: 275.52869pt x 121.2025pt on input line
- 183.
- [8 <./Diagramme_Gantt.png>]
+Package pdftex.def Info: Requested size: 495.94827pt x 218.16302pt on input lin
+e 183.
+
+Overfull \hbox (12.2514pt too wide) in paragraph at lines 183--184
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9 <./Diagramme_Gantt.png>]
 Chapitre 2.
-[9
+[10
 
 ]
-<Diagramme_de_packages.png, id=219, 535.2497pt x 216.05719pt>
+<Diagramme_de_packages.png, id=223, 535.2497pt x 216.05719pt>
 File: Diagramme_de_packages.png Graphic file (type png)
 <use Diagramme_de_packages.png>
 Package pdftex.def Info: Diagramme_de_packages.png  used on input line 202. on 
 input line 202.
-Package pdftex.def Info: Requested size: 267.62419pt x 108.02832pt on input lin
+Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
 e 202.
-<Diagramme_cas_utilisation_organisation_course.png, id=220, 463.7325pt x 313.17
+ [11 <./Diagramme_de_packages.png>]
+<Diagramme_cas_utilisation_organisation_course.png, id=232, 463.7325pt x 313.17
 pt>
 File: Diagramme_cas_utilisation_organisation_course.png Graphic file (type png)
 
 <use Diagramme_cas_utilisation_organisation_course.png>
 Package pdftex.def Info: Diagramme_cas_utilisation_organisation_course.png  use
 d on input line 224. on input line 224.
-Package pdftex.def Info: Requested size: 231.86568pt x 156.58461pt on input lin
+Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
 e 224.
- [10 <./Diagramme_de_packages.png>]
-<Diagramme_cas_utilisation_administration_challenge.png, id=229, 455.45157pt x 
+<Diagramme_cas_utilisation_administration_challenge.png, id=233, 455.45157pt x 
 283.81032pt>
 File: Diagramme_cas_utilisation_administration_challenge.png Graphic file (type
  png)
 <use Diagramme_cas_utilisation_administration_challenge.png>
 Package pdftex.def Info: Diagramme_cas_utilisation_administration_challenge.png
   used on input line 241. on input line 241.
-Package pdftex.def Info: Requested size: 227.72522pt x 141.9048pt on input line
- 241.
-<Diagramme_cas_utilisation_consultation_resultats.png, id=230, 455.45157pt x 28
+Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
+e 241.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Diagramme_cas_utilisation_consultation_resultats.png, id=234, 455.45157pt x 28
 3.81032pt>
 File: Diagramme_cas_utilisation_consultation_resultats.png Graphic file (type p
 ng)
 <use Diagramme_cas_utilisation_consultation_resultats.png>
 Package pdftex.def Info: Diagramme_cas_utilisation_consultation_resultats.png  
 used on input line 248. on input line 248.
-Package pdftex.def Info: Requested size: 227.72522pt x 141.9048pt on input line
- 248.
-<Diagramme_classes.png, id=231, 792.71156pt x 383.18156pt>
+Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
+e 248.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Diagramme_classes.png, id=235, 792.71156pt x 383.18156pt>
 File: Diagramme_classes.png Graphic file (type png)
 <use Diagramme_classes.png>
 Package pdftex.def Info: Diagramme_classes.png  used on input line 260. on inpu
 t line 260.
-Package pdftex.def Info: Requested size: 396.35481pt x 191.5903pt on input line
- 260.
- [11 <./Diagramme_cas_utilisation_organisation_course.png> <./Diagramme_cas_uti
-lisation_administration_challenge.png>]
-[12 <./Diagramme_cas_utilisation_consultation_resultats.png> <./Diagramme_class
-es.png>]
-<Diagramme_activites.png, id=243, 736.25063pt x 354.57469pt>
+Package pdftex.def Info: Requested size: 713.43382pt x 344.86021pt on input lin
+e 260.
+[12 <./Diagramme_cas_utilisation_organisation_course.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./Diagramme_cas_utilisation_administration_challenge.png> <./Diagramme_cas
+_utilisation_consultation_resultats.png>]
+<Diagramme_activites.png, id=247, 736.25063pt x 354.57469pt>
 File: Diagramme_activites.png Graphic file (type png)
 <use Diagramme_activites.png>
 Package pdftex.def Info: Diagramme_activites.png  used on input line 294. on in
 put line 294.
-Package pdftex.def Info: Requested size: 368.1244pt x 177.28691pt on input line
- 294.
- [13] [14 <./Diagramme_activites.png>]
+Package pdftex.def Info: Requested size: 662.61945pt x 319.11427pt on input lin
+e 294.
+ [14]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15] [16 <./Diagramme_classes.png>] [17 <./Diagramme_activites.png>]
 Chapitre 3.
-[15
+[18
 
 ]
-<R_logo.png, id=259, 392.46625pt x 366.36874pt>
+<R_logo.png, id=272, 392.46625pt x 366.36874pt>
 File: R_logo.png Graphic file (type png)
 <use R_logo.png>
-Package pdftex.def Info: R_logo.png  used on input line 318. on input line 318.
+Package pdftex.def Info: R_logo.png  used on input line 314. on input line 314.
 
-Package pdftex.def Info: Requested size: 196.23264pt x 183.18391pt on input lin
-e 318.
-<Shiny_logo.png, id=260, 281.05pt x 281.05pt>
+Package pdftex.def Info: Requested size: 78.49185pt x 73.27245pt on input line 
+314.
+<Shiny_logo.png, id=273, 281.05pt x 281.05pt>
 File: Shiny_logo.png Graphic file (type png)
 <use Shiny_logo.png>
-Package pdftex.def Info: Shiny_logo.png  used on input line 326. on input line 
-326.
-Package pdftex.def Info: Requested size: 140.52464pt x 140.52464pt on input lin
-e 326.
- [16 <./R_logo.png>]
-<A_faire.png, id=268, 161.10187pt x 155.83218pt>
+Package pdftex.def Info: Shiny_logo.png  used on input line 338. on input line 
+338.
+Package pdftex.def Info: Requested size: 56.209pt x 56.209pt on input line 338.
+
+ [19 <./R_logo.png>]
+<A_faire.png, id=281, 161.10187pt x 155.83218pt>
 File: A_faire.png Graphic file (type png)
 <use A_faire.png>
-Package pdftex.def Info: A_faire.png  used on input line 337. on input line 337
+Package pdftex.def Info: A_faire.png  used on input line 351. on input line 351
 .
 Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
-37.
+51.
 File: A_faire.png Graphic file (type png)
 <use A_faire.png>
-Package pdftex.def Info: A_faire.png  used on input line 359. on input line 359
+Package pdftex.def Info: A_faire.png  used on input line 373. on input line 373
 .
 Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 3
-59.
- [17 <./Shiny_logo.png> <./A_faire.png>] [18] [19]
+73.
+ [20 <./Shiny_logo.png> <./A_faire.png>] [21] [22]
 (rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
- [20
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+ [23
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
  (rapport_pic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
-Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
-(rerunfilecheck)             Checksum: C16780882F74C59BF853EFCBE7FBC18D;1886.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
+
+
+Package rerunfilecheck Warning: File `rapport_pic.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `rapport_pic.out':
+(rerunfilecheck)             Before: 78BFF43D202FC70F2FFF743BB9709083;1890
+(rerunfilecheck)             After:  BCFF9B4757CD5394A5E62916C6C1B149;1913.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
  ) 
 Here is how much of TeX's memory you used:
- 10663 strings out of 493312
- 153332 string characters out of 3140192
- 243194 words of memory out of 3000000
- 13923 multiletter control sequences out of 15000+200000
+ 10774 strings out of 493312
+ 154706 string characters out of 3140192
+ 247037 words of memory out of 3000000
+ 14025 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,8n,32p,894b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,9n,32p,894b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
 2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (21 pages, 1102922 bytes).
+Output written on rapport_pic.pdf (24 pages, 1105883 bytes).
 PDF statistics:
- 329 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
  273 words of extra memory for PDF output out of 10000 (max. 10000000)
 

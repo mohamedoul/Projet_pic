@@ -9,7 +9,7 @@
 \usepackage{mathrsfs}
 \usepackage{amsmath}
 \usepackage{amsfonts}
-
+\usepackage{rotating}
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{eurosym}
@@ -175,21 +175,21 @@
 	Pour mettre cette méthode en pratique. Une réunion est organisée chaque jeudi après-midi avec nos Encadrants pour discuter des avancements de la semaine en cours en de déterminer les tâches à effectuer durant la semaine à avenir. Par ailleurs, l’ensemble des tâches à réaliser sont répartis sur les membres de l’équipe afin de converger les efforts pour la réussite du projet. 
 	
 	
-	\subsection{Diagramme de Gantt  }
+	\subsection{Diagramme de Gantt}
 	La planification est parmi les phases d’avant-projet. Elle consiste à prévoir le déroulement du projet tout au long de ses phases. Grâce aux réunions tenues avec nos encadrants et le client, on a été éclairés sur les différentes étapes du projet.
 	Ainsi le diagramme ci-après résume les différentes étapes ainsi que le temps qui leurs a été allouée
-	\begin{figure}
+	\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_Gantt.png}
+	   \includegraphics[scale=0.9]{Diagramme_Gantt.png}
 	   \caption {Le diagramme de Gantt du projet}
 	\end{figure}
 	\newpage
 	
-	\chapter{Etude analytique du projet}
+	\chapter{Étude analytique du projet}
 
 Ce chapitre présentera les outils utilisés pour la réalisation de la conception de notre projet. Par ailleurs, il relate ses différentes étapes, ainsi que les diagrammes dégagés après chaque étape.
 \newpage
-\section {Etude analytique du projet}
+\section {Étude analytique du projet}
 
 
 \subsection {Diagramme de packages }
@@ -197,9 +197,9 @@ Ce chapitre présentera les outils utilisés pour la réalisation de la concepti
 Le diagramme de packages est un diagramme UML qui fournit une représentation graphique de haut niveau de l'organisation de l’application à réaliser.
 \subsubsection{Diagramme de packages du projet}
 De prime abord, il convient de distinguer les différents modules à développer dans le cadre du projet. Ainsi le diagramme de packages illustrer dans la figure ci-après montre clairement les trois modules à mettre en jeu.
-\begin{figure}
+\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_de_packages.png}
+	   \includegraphics[scale=0.9]{Diagramme_de_packages.png}
 	   \caption {Le diagramme de packages du projet}
 \end{figure}
 
@@ -219,9 +219,9 @@ Comme illustré par le diagramme de packages, trois modules sont à développer.
 \item  L’envoi des résultats finaux à la ligue pour permettre à l’administrateur de mettre à jour le fichier des challenges.
 \end{itemize} 
 
-\begin{figure}
+\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_cas_utilisation_organisation_course.png}
+	   \includegraphics[scale=0.9]{Diagramme_cas_utilisation_organisation_course.png}
 	   \caption {Le diagramme de cas d’utilisation relatif à l’organisation d’une course.}
 \end{figure}
 
@@ -236,30 +236,30 @@ Ainsi la figues ci-desous  illustre clairement le cas d’utilisation de cette �
 
 
 
-\begin{figure}
+\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_cas_utilisation_administration_challenge.png}
+	   \includegraphics[scale=0.9]{Diagramme_cas_utilisation_administration_challenge.png}
 	   \caption {Le diagramme de cas d’utilisation de la phase d’administration.}
 \end{figure}
 Le dernier cas d’utilisation concerne l’étape relative à l’affichage des résultats pour les sportifs.  Ainsi, le système devra permettre l’affichage des résultats globaux des courses, les classements relatifs et quelques graphes montrant l’évolution individuel pour chaque sportif.
 La figure ci-après montre ces étapes :
-\begin{figure}
+\begin{figure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_cas_utilisation_consultation_resultats.png}
+	   \includegraphics[scale=0.9]{Diagramme_cas_utilisation_consultation_resultats.png}
 	   \caption {Le diagramme de cas d’utilisation de l’affichage des résultats pour les participants.}
 \end{figure}
 \subsection {Diagramme de classes }
 \subsubsection{Définition}
 Le diagramme de classes est un schéma utilisé en génie logiciel pour présenter les classes et les interfaces des systèmes ainsi que les différentes relations entre celles-ci. Ce diagramme fait partie de la partie statique d'UML car il fait abstraction des aspects temporels et dynamiques.
 
-\subsubsection{Les classes }
+\subsubsection{Les classes}
 Le diagramme de classes du projet est illustré par la figure ci-après :
 
-\begin{figure}
+\begin{sidewaysfigure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_classes.png}
+	   \includegraphics[scale=0.9]{Diagramme_classes.png}
 	   \caption {Le diagramme de classes du projet.}
-\end{figure}
+\end{sidewaysfigure}
 Le diagramme de classes du projet, figurant dans la capture d’écran précédente est composé de huit classes répertoriées comme suit :
 \begin{itemize} 
  	\item La classe Personne qui est une classe abstraite dont héritent les classes Participant, Organisateur et Administrateur. Cette classe possède les attributs suivants : identifiant de la personne, son nom, son prénom, son email et son numéro de téléphone.
@@ -285,47 +285,68 @@ Les différentes classes du diagramme peuvent être liées par des types de rela
 \end{itemize} 
 
 
-\subsection {Le diagramme d’activités  }
+\subsection {Le diagramme d’activités}
 \subsubsection{Définition}
 Les diagrammes d'activités permettent de mettre l'accent sur les traitements. Ils sont donc particulièrement adaptés à la modélisation du cheminement et de contrôle des flots de données. 
 \subsubsection{Le diagramme d'activité du projet}
-\begin{figure}
+\begin{sidewaysfigure}[!h]
 	   \center
-	   \includegraphics[scale=0.5]{Diagramme_activites.png}
+	   \includegraphics[scale=0.9]{Diagramme_activites.png}
 	   \caption {Le diagramme d’activités du projet}
-\end{figure}
+\end{sidewaysfigure}
 
-Le diagramme illustré dans la figure ci-dessous montre le diagramme d’activités du projet. En effet, il représente les événements déclencheurs des différents processus. Egalement, il illustre les différentes tâches exécutées d’une manière séquentielle. 
+Le diagramme illustré dans la figure ci-dessous montre le diagramme d’activités du projet. En effet, il représente les événements déclencheurs des différents processus. Également, il illustre les différentes tâches exécutées d’une manière séquentielle. 
 \newpage
+
+
 \chapter{Réalisation du projet}
-Ce chapitre est l’occasion pour présenter les différents langage et outils utilisés pour réaliser le projet. Egalement, la mise en avant des différentes interfaces mises en œuvres pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
+Ce chapitre est l’occasion pour présenter les différents langage et outils utilisés pour réaliser le projet. Également, la mise en avant des différentes interfaces mises en œuvres pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
 
 \newpage
+
+
 \section {Réalisation du projet }
-\subsection {Langages et outils utilisé  }
-\subsubsection {Langage R  }
+\subsection {Langages, outils et formats de données utilisés}
+\subsubsection {Langage R}
+
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.2]{R_logo.png}
+	\caption {Le logo du langage R}
+\end{figure}
 R est un langage de programmation et un logiciel libre dédié aux statistiques et à la science des données soutenu par la R Foundation for Statistical Computing. Il est dérivé du langage S développé par John Chambers et ses collègues au sein des laboratoires Bell.
 Le projet R naît en 1993 comme un projet de recherche de Ross Ihaka et Robert Gentleman à l'université d'Auckland (Nouvelle-Zélande). 
 Le langage R existe en plusieurs distribution, cependant la plus connue demeure celle du R Project et du Comprehensive R Archive Network (CRAN). Il existe d'autres distributions comme la distribution proposée par Microsoft14 ou encore celle de l'entreprise Oracle, Oracle R Distribution15.
-Le choix du langage R, a été adopté en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
+R a été adopté en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
 \begin{itemize} 
 \item Les statistiques relatives aux classements des sportifs  devront être  faites en un langage capable de traiter des données volumineuses (les données relatives aux challenges dans le cas de notre projet) en réduisant au maximum les ressources utilisés en mémoire.
-\item Le choix de ce langage repose également sur des raisons pédagogiques. En fait, ce projet est l’occasion de découvrir les avantages et les limitations du langage R en termes de réalisation d’interfaces graphiques dynamiques et interactives.
-La figure ci-après représente le logo du langage R :
-\end{itemize} 
-\begin{figure}
-	  \center
-	  \includegraphics[scale=0.5]{R_logo.png}
-	   \caption {Le logo du langage R}
-\end{figure}
+\item Des raisons pédagogiques. En fait, ce projet est l’occasion de découvrir les avantages et les limitations du langage R en termes de réalisation d’interfaces graphiques dynamiques et interactives.
+\item La simplicité de développement : R est un langage dit de "Haut niveau", c'est à dire d'après Wikipédia : "un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers."
+\item Un premier algorithme de classement a déjà été écrit, et fourni, en R.
+\end{itemize}
+Cependant, les points suivants ont étés soulevés par les étudiants concernant le langage R :
 
-\subsubsection {Serveur Shiny}
-Shiny est un package R qui facilite la création d'applications Web interactives directement à partir de R. Il permet d’héberger des applications autonomes sur une page Web ou les intégrer dans des documents R Markdown ou créer des tableaux de bord. Il offre également la possibilité d’étendre les applications Shiny avec des thèmes CSS, html widgets et des actions JavaScript. La figure ci-après représente le logo de Shiny 
+\begin{itemize} 
+	\item Déployer un serveur web fonctionnant sous R n'est pas commun. Les hébergements web sont généralement en php.
+	\item Les données concernés ne sont actuellement pas volumineuse, n'importe quel autre langage peut se permettre de les traiter avec autant d'efficacité.
+\end{itemize}
+\newpage
+\subsubsection {Package Shiny}
+
 \begin{figure}
-	  \center
-	  \includegraphics[scale=0.5]{Shiny_logo.png}
-	   \caption {Le logo de Shiny}
+	\center
+	\includegraphics[scale=0.3]{Shiny_logo.png}
+	\caption {Le logo de Shiny}
 \end{figure}
+Shiny est un package R qui permet la création d'applications Web interactives directement à partir de R. Il permet d’héberger des applications autonomes sur une page Web ou les intégrer dans des documents R Markdown ou créer des tableaux de bord. Il offre également la possibilité d’étendre les applications Shiny avec des thèmes CSS, html widgets et des actions JavaScript, car le package entier repose sur ces différents langages.
+
+Shiny permet de déployer une page web gérée par R et soutenu par HTML, CSS, Javascript et des framework reconnus comme Bootstrap ou encore Datatables.
+Shiny a donc été choisi pour les mêmes raisons que R, cependant les points suivants ont étés soulevés par les étudiants concernant l'utilisation de cet outil :
+
+\begin{itemize} 
+	\item 
+\end{itemize}
+
   
 
 \subsection {Les interfaces du projet }
