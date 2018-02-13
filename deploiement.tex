@@ -2,5 +2,8 @@ Le déploiement de l'application est une phase essentielle à notre projet. En e
 Grâce aux réunions effectuées avec le client, nous avons appris que la ligue Hauts-de-France dispose d'un serveur OVH sur lequel nous pourrions déployer l'application. \newline
 On a obtenu les identifiants pas M. Nicolas PIERENS, ce qui nous a permis de voir que l'offre que la ligue a souscrit n'est qu'une offre web, le déployement n'est possible que sur un serveur dédié, un VPS. Ainsi, nous avons vu plusieurs possibilités de déploiement : 
 \begin{itemize}
-	\item  
+	\item  La plus adéquate : Demander à notre client de louer un VPS avec leur offre OVH, ce qui permettrait à la ligue d'obtenir notre application sur leur serveur dédié. Cela nécessite de payer moins de 4\€ par mois et d'avoir une personne chargée de tenir le serveur pour les mises à jour ou souci techniques liés au déployement.
+	\item La plus économique : Déployer le serveur sur un serveur de l'ULCO, cela permet de ne pas payer de VPS mais les serveurs de l'université pourraient ne pas supporter plusieurs connexions simultanées.
+	\item La plus simple car déjà effective : Déployer l'application sur un serveur privé d'un étudiant. Cela permet d'éviter la location d'un VPS pour la ligue, mais l'étudiant sert d'hébergeur secondaire et d'ici quelques mois, ce dernier ne sera peut-être plus concerné par ce projet.
 \end{itemize} 
+Au moment où nous écrivons ce rapport, nous avons décidé de rester sur la solution effective, le déploiement sur un serveur personnel avec une redirection vers le nom de domaine de la ligue des Hauts-de-France. Ainsi, vous pouvez trouver l'interface locale sur http://classement.triathlonhdf.fr/ et l'interface online sur  http://challenge.triathlonhdf.fr/. 
