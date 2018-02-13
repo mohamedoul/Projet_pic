@@ -16,8 +16,6 @@ De prime abord, il convient de distinguer les différents modules à développer
 
 Ce diagramme permet de dégager trois packages principaux qui seront détaillés dans le cadre des cas d’utilisation illustré dans l’axe suivant.
 
-
-
 \subsection {Les cas d’utilisation}
 
 \subsubsection{Définition}
@@ -65,12 +63,14 @@ Le diagramme de classes est un schéma utilisé en génie logiciel pour présent
 
 \subsubsection{Les classes}
 Le diagramme de classes du projet est illustré par la figure ci-après :
-
-\begin{sidewaysfigure}[!h]
+\newpage
+\begin{sidewaysfigure}
 	   \center
-	   \includegraphics[scale=0.9]{img/Diagramme_classes.png}
+	   \includegraphics[scale=0.8]{img/Diagramme_classes.png}
 	   \caption {Le diagramme de classes du projet.}
 \end{sidewaysfigure}
+
+\newpage
 Le diagramme de classes du projet, figurant dans la capture d’écran précédente est composé de huit classes répertoriées comme suit :
 \begin{itemize} 
  	\item La classe Personne qui est une classe abstraite dont héritent les classes Participant, Organisateur et Administrateur. Cette classe possède les attributs suivants : identifiant de la personne, son nom, son prénom, son email et son numéro de téléphone.
@@ -100,7 +100,7 @@ Les différentes classes du diagramme peuvent être liées par des types de rela
 \subsubsection{Définition}
 Les diagrammes d'activités permettent de mettre l'accent sur les traitements. Ils sont donc particulièrement adaptés à la modélisation du cheminement et de contrôle des flots de données. 
 \subsubsection{Le diagramme d'activité du projet}
-\begin{sidewaysfigure}[!h]
+\begin{sidewaysfigure}
 	   \center
 	   \includegraphics[scale=0.9]{img/Diagramme_activites.png}
 	   \caption {Le diagramme d’activités du projet}
