@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 09:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 09:50
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1026,14 +1026,14 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 2.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<img/logo_png.png, id=95, 166.37157pt x 161.85469pt>
+<img/logo_png.png, id=103, 166.37157pt x 161.85469pt>
 File: img/logo_png.png Graphic file (type png)
 <use img/logo_png.png>
 Package pdftex.def Info: img/logo_png.png  used on input line 5. on input line 
 5.
 Package pdftex.def Info: Requested size: 133.09741pt x 129.4839pt on input line
  5.
-<img/eilco.png, id=97, 304.4976pt x 128.1588pt>
+<img/eilco.png, id=105, 304.4976pt x 128.1588pt>
 File: img/eilco.png Graphic file (type png)
 <use img/eilco.png>
 Package pdftex.def Info: img/eilco.png  used on input line 6. on input line 6.
@@ -1048,7 +1048,7 @@ LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <17.28> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 8.
 
-<img/logo.png, id=98, 304.4976pt x 128.1588pt>
+<img/logo.png, id=106, 304.4976pt x 128.1588pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 13. on input line 13.
@@ -1059,60 +1059,55 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 18.
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 20.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 19.
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 27.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 25.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 25.
 
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 27.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 25.
 
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 27.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 27.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 27.
-LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+(Font)              <6> on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 27.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 25.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 25.
 
 ("D:\Programmes\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-[]\T1/lmss/m/n/14.4 Mme. \T1/lmr/m/sc/14.4 POIS-SON
- []
-
-[1
+) [1
 
 {C:/Users/Félix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo
 _png.png> <./img/eilco.png> <./img/logo.png>]) (rapport_pic.toc)
@@ -1137,7 +1132,7 @@ Chapitre 1.
 [4
 
 ] [5]
-<img/points_categorie_adultes.png, id=197, 575.90157pt x 48.93282pt>
+<img/points_categorie_adultes.png, id=205, 575.90157pt x 48.93282pt>
 File: img/points_categorie_adultes.png Graphic file (type png)
 <use img/points_categorie_adultes.png>
 Package pdftex.def Info: img/points_categorie_adultes.png  used on input line 3
@@ -1149,7 +1144,7 @@ Overfull \hbox (92.2033pt too wide) in paragraph at lines 35--36
  [] 
  []
 
-<img/points_categorie_jeunes.png, id=198, 584.93532pt x 264.99pt>
+<img/points_categorie_jeunes.png, id=206, 584.93532pt x 264.99pt>
 File: img/points_categorie_jeunes.png Graphic file (type png)
 <use img/points_categorie_jeunes.png>
 Package pdftex.def Info: img/points_categorie_jeunes.png  used on input line 51
@@ -1162,7 +1157,7 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 51--52
  []
 
 [6 <./img/points_categorie_adultes.png> <./img/points_categorie_jeunes.png>]
-<img/recapitulatif_modalite_challenge.png, id=206, 584.93532pt x 264.99pt>
+<img/recapitulatif_modalite_challenge.png, id=214, 584.93532pt x 264.99pt>
 File: img/recapitulatif_modalite_challenge.png Graphic file (type png)
 <use img/recapitulatif_modalite_challenge.png>
 Package pdftex.def Info: img/recapitulatif_modalite_challenge.png  used on inpu
@@ -1175,7 +1170,7 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 62--63
  []
 
 [7 <./img/recapitulatif_modalite_challenge.png>]
-<img/Diagramme_Gantt.png, id=211, 551.05875pt x 242.40562pt>
+<img/Diagramme_Gantt.png, id=219, 551.05875pt x 242.40562pt>
 File: img/Diagramme_Gantt.png Graphic file (type png)
 <use img/Diagramme_Gantt.png>
 Package pdftex.def Info: img/Diagramme_Gantt.png  used on input line 90. on inp
@@ -1195,7 +1190,7 @@ Chapitre 2.
 [10
 
 ]
-<img/Diagramme_de_packages.png, id=224, 535.2497pt x 216.05719pt>
+<img/Diagramme_de_packages.png, id=232, 535.2497pt x 216.05719pt>
 File: img/Diagramme_de_packages.png Graphic file (type png)
 <use img/Diagramme_de_packages.png>
 Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 13. 
@@ -1203,7 +1198,7 @@ on input line 13.
 Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
 e 13.
  [11 <./img/Diagramme_de_packages.png>]
-<img/Diagramme_cas_utilisation_organisation_course.png, id=233, 463.7325pt x 31
+<img/Diagramme_cas_utilisation_organisation_course.png, id=241, 463.7325pt x 31
 3.17pt>
 File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type 
 png)
@@ -1212,7 +1207,7 @@ Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png
  used on input line 35. on input line 35.
 Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
 e 35.
-<img/Diagramme_cas_utilisation_administration_challenge.png, id=234, 455.45157p
+<img/Diagramme_cas_utilisation_administration_challenge.png, id=242, 455.45157p
 t x 283.81032pt>
 File: img/Diagramme_cas_utilisation_administration_challenge.png Graphic file (
 type png)
@@ -1225,7 +1220,7 @@ e 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/Diagramme_cas_utilisation_consultation_resultats.png, id=235, 455.45157pt 
+<img/Diagramme_cas_utilisation_consultation_resultats.png, id=243, 455.45157pt 
 x 283.81032pt>
 File: img/Diagramme_cas_utilisation_consultation_resultats.png Graphic file (ty
 pe png)
@@ -1237,7 +1232,7 @@ e 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/Diagramme_classes.png, id=236, 792.71156pt x 383.18156pt>
+<img/Diagramme_classes.png, id=244, 792.71156pt x 383.18156pt>
 File: img/Diagramme_classes.png Graphic file (type png)
 <use img/Diagramme_classes.png>
 Package pdftex.def Info: img/Diagramme_classes.png  used on input line 71. on i
@@ -1250,7 +1245,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./img/Diagramme_cas_utilisation_administration_challenge.png> <./img/Diagr
 amme_cas_utilisation_consultation_resultats.png>]
-<img/Diagramme_activites.png, id=248, 736.25063pt x 354.57469pt>
+<img/Diagramme_activites.png, id=256, 736.25063pt x 354.57469pt>
 File: img/Diagramme_activites.png Graphic file (type png)
 <use img/Diagramme_activites.png>
 Package pdftex.def Info: img/Diagramme_activites.png  used on input line 105. o
@@ -1267,7 +1262,7 @@ Chapitre 3.
 [18
 
 ]
-<img/R_logo.png, id=273, 392.46625pt x 366.36874pt>
+<img/R_logo.png, id=281, 392.46625pt x 366.36874pt>
 File: img/R_logo.png Graphic file (type png)
 <use img/R_logo.png>
 Package pdftex.def Info: img/R_logo.png  used on input line 11. on input line 1
@@ -1279,7 +1274,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
-<img/Shiny_logo.png, id=274, 281.05pt x 281.05pt>
+<img/Shiny_logo.png, id=282, 281.05pt x 281.05pt>
 File: img/Shiny_logo.png Graphic file (type png)
 <use img/Shiny_logo.png>
 Package pdftex.def Info: img/Shiny_logo.png  used on input line 20. on input li
@@ -1297,7 +1292,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 [19 <./img/R_logo.png> <./img/Shiny_logo.png>] [20]
-<img/desktop-logo.png, id=286, 256.96pt x 256.96pt>
+<img/desktop-logo.png, id=294, 256.96pt x 256.96pt>
 File: img/desktop-logo.png Graphic file (type png)
 <use img/desktop-logo.png>
 Package pdftex.def Info: img/desktop-logo.png  used on input line 61. on input 
@@ -1309,37 +1304,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
-<img/latex.png, id=287, 1204.5pt x 501.875pt>
+<img/latex.png, id=295, 1204.5pt x 501.875pt>
 File: img/latex.png Graphic file (type png)
 <use img/latex.png>
 Package pdftex.def Info: img/latex.png  used on input line 70. on input line 70
 .
 Package pdftex.def Info: Requested size: 120.45705pt x 50.19043pt on input line
  70.
-<img/rstudio.png, id=288, 390.45876pt x 129.48375pt>
+<img/rstudio.png, id=296, 390.45876pt x 129.48375pt>
 File: img/rstudio.png Graphic file (type png)
 <use img/rstudio.png>
 Package pdftex.def Info: img/rstudio.png  used on input line 78. on input line 
 78.
 Package pdftex.def Info: Requested size: 78.09036pt x 25.89629pt on input line 
 78.
-<img/A_faire.png, id=289, 161.10187pt x 155.83218pt>
-File: img/A_faire.png Graphic file (type png)
-<use img/A_faire.png>
-Package pdftex.def Info: img/A_faire.png  used on input line 93. on input line 
-93.
-Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 9
-3.
-[21 <./img/desktop-logo.png> <./img/latex.png> <./img/rstudio.png>]
-File: img/A_faire.png Graphic file (type png)
-<use img/A_faire.png>
-Package pdftex.def Info: img/A_faire.png  used on input line 115. on input line
- 115.
-Package pdftex.def Info: Requested size: 80.55074pt x 77.9159pt on input line 1
-15.
+<img/admin_global.PNG, id=297, 594.42075pt x 388.45125pt>
+File: img/admin_global.PNG Graphic file (type png)
+<use img/admin_global.PNG>
+Package pdftex.def Info: img/admin_global.PNG  used on input line 99. on input 
+line 99.
+Package pdftex.def Info: Requested size: 534.97372pt x 349.60287pt on input lin
+e 99.
 
-(contraintesAcquis.tex)) [22 <./img/A_faire.png>] (conclusion.tex) [23]
-(rapport_pic.bbl)
+Overfull \hbox (51.27686pt too wide) in paragraph at lines 99--100
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21 <./img/desktop-logo.png> <./img/latex.png> <./img/rstudio.png>]
+(contraintesAcquis.tex)) [22 <./img/admin_global.PNG>] (conclusion.tex)
+[23] (rapport_pic.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
  [24
 
@@ -1349,26 +1345,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
-(rerunfilecheck)             Checksum: 31141777E22E66D245502A612D278B30;1843.
+(rerunfilecheck)             Checksum: EA9DF1B0A0E61030F0E072AB31B951BC;1957.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 10816 strings out of 493312
- 155730 string characters out of 3140192
+ 10823 strings out of 493312
+ 155835 string characters out of 3140192
  247051 words of memory out of 3000000
- 14036 multiletter control sequences out of 15000+200000
+ 14038 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,32p,918b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,32p,919b,598s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
 2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (25 pages, 1173073 bytes).
+Output written on rapport_pic.pdf (25 pages, 1184541 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

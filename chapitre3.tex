@@ -2,7 +2,7 @@
 Ce chapitre est l’occasion pour présenter les différents langage et outils utilisés pour réaliser le projet. Également, la mise en avant des différentes interfaces mises en œuvres pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
 
 \newpage
-\section {Réalisation du projet }
+\section{Réalisation du projet}
 \subsection {Langages \& outils utilisés}
 \subsubsection {Langage R \& package Shiny}
 
@@ -33,7 +33,7 @@ R en combinaison avec Shiny ont étés adoptés en concertation avec nos encadra
 \item Un premier algorithme de classement a déjà été écrit, et fourni, en R.
 \end{itemize}
 
-Cependant, les points suivants ont étés soulevés par les étudiants :
+Cependant, nous avons soulevé les point suivants :
 
 \begin{itemize} 
 	\item Déployer un serveur web fonctionnant sous R et Shiny n'est pas commun. Les hébergements web sont généralement en php.
@@ -86,41 +86,42 @@ L'ensemble des développements de ce projet ont étés effectués avec ce logici
 
 \subsection {Les deux outils distincts du projet}
 Pour permettre à l’utilisateur de bénéficier des fonctionnalités de notre logiciel, nous avons réalisé deux interfaces web. En effet, la première sera utilisée uniquement par l’administrateur de la ligue afin d’ajouter les différentes courses au challenge correspondant et également de consulter les informations et les statistiques relatives aux clubs et aux adhérents.
-La figure ci-après montre un aperçu de notre interface. 
 
-\begin{figure}
-	  \center
-	  \includegraphics[scale=0.5]{img/A_faire.png}
-	   \caption {A faire }
+\subsection{Outil classement}
+
+Dans un premier temps, l'outil "Classement" permet de réaliser les classements des sportifs. \\
+Il s'agit uniquement d'un outil de calcul en ligne : l'utilisateur entre une course, un challenge (optionnel) et il pourra télécharger un classement mis à jour.
+
+Voici un aperçu de l'interface :
+
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.9]{img/admin_global.PNG}
+	\caption {Aperçu de l'interface de classement}
 \end{figure}
 
-Les différentes opérations que permet cette interface sont répertoriées comme suit : 
-\begin{itemize} 
-\item  Le bouton course permet de charger le fichier course cohérent et de le visualiser sur l’interface graphique.
-\item Après avoir télécharger le fichier course, l’opérateur utilise le bouton challenge pour ajouter la course au challenge correspondant et mettre à jour les classements.
-\end{itemize} 
+Le processus se déroule en trois étapes :
 
-La deuxième interface sera dédiée à la visualisation des données du fichier challenge ; laquelle interface 
-Offre les fonctionnalités suivantes : 
-\begin{itemize} 
-\item l’affichage des adhérents et leurs classements ; 
- \item l’affichage des informations d’un seul sportif ;
- \item Le tri des résultats selon un critère donné (catégorie, sexe, club ou autres);
- \item Affichage du graphe représentant des statistiques d’un sportif par rapport à sa catégorie ;
- \item Affichage des graphes représentant des statistiques d’un sportif par rapport à sa catégorie ;
-\end{itemize} 
-La figure ci-après illustre cette interface:
-\begin{figure}
-	  \center
-	  \includegraphics[scale=0.5]{img/A_faire.png}
-	   \caption {A faire }
-\end{figure}
+\begin{enumerate} 
+	\item La course à ajouter au challenge doit être vérifiée, l'administrateur doit donc entrer le fichier au format excel et certains paramètres :
+	\begin{itemize} 
+		\item Le nom de la course
+		\item La discipline concernée (Triathlon, Duathlon, Aquathlon)
+		\item La distance concernée (XS, S, M, L XL)
+		\item La date de la course
+		\item La catégorie (Adultes, Jeunes)
+	\end{itemize}
+	\item Le challenge existant peut être ajouté par l'administrateur, s'il ne l'est pas alors un nouveau challenge sera créé.
+	\item Le challenge mis à jour est téléchargeable.
+\end{enumerate}
+
+\subsection{Outil challenge}
 
  
-\subsection {Etudes des options du déploiement du projet }
+\subsection {Déploiement du projet}
 
-\subsection {La documentation automatique  }
-\subsection {Schéma des tests }
+\subsection {La documentation automatique}
+\subsection {Schéma des tests}
 
-\subsection {Contraintes et acquis }
+\subsection {Contraintes et acquis}
 \input{contraintesAcquis.tex}
