@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 11:19
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 11:06
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 11:11
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 11:04
->>>>>>> 4ad23aa82745a90096d294ccf5dd6fd6d107d160
->>>>>>> 51ccc5ba0a474bd90d261bfd407b7ecd7db0b448
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 11:27
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1175,11 +1163,7 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 62--63
  []
 
 [7 <./img/recapitulatif_modalite_challenge.png>] [8]
-<<<<<<< HEAD
 <img/diagramme_de_gantt.png, id=216, 732.48656pt x 246.1697pt>
-=======
-<img/diagramme_de_gantt.png, id=221, 732.48656pt x 246.1697pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/diagramme_de_gantt.png Graphic file (type png)
 <use img/diagramme_de_gantt.png>
 Package pdftex.def Info: img/diagramme_de_gantt.png  used on input line 91. on 
@@ -1191,11 +1175,7 @@ Chapitre 2.
 [11
 
 ]
-<<<<<<< HEAD
 <img/Diagramme_de_packages.png, id=229, 535.2497pt x 216.05719pt>
-=======
-<img/Diagramme_de_packages.png, id=234, 535.2497pt x 216.05719pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/Diagramme_de_packages.png Graphic file (type png)
 <use img/Diagramme_de_packages.png>
 Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 13. 
@@ -1203,11 +1183,7 @@ on input line 13.
 Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
 e 13.
  [12 <./img/Diagramme_de_packages.png>]
-<<<<<<< HEAD
 <img/Diagramme_cas_utilisation_organisation_course.png, id=239, 463.7325pt x 31
-=======
-<img/Diagramme_cas_utilisation_organisation_course.png, id=244, 463.7325pt x 31
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 3.17pt>
 File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type 
 png)
@@ -1216,7 +1192,7 @@ Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png
  used on input line 35. on input line 35.
 Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
 e 35.
-<img/Diagramme_cas_utilisation_administration_challenge.png, id=245, 455.45157p
+<img/Diagramme_cas_utilisation_administration_challenge.png, id=240, 455.45157p
 t x 283.81032pt>
 File: img/Diagramme_cas_utilisation_administration_challenge.png Graphic file (
 type png)
@@ -1229,7 +1205,7 @@ e 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/Diagramme_cas_utilisation_consultation_resultats.png, id=246, 455.45157pt 
+<img/Diagramme_cas_utilisation_consultation_resultats.png, id=241, 455.45157pt 
 x 283.81032pt>
 File: img/Diagramme_cas_utilisation_consultation_resultats.png Graphic file (ty
 pe png)
@@ -1241,7 +1217,7 @@ e 59.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/Diagramme_classes.png, id=247, 792.71156pt x 383.18156pt>
+<img/Diagramme_classes.png, id=242, 792.71156pt x 383.18156pt>
 File: img/Diagramme_classes.png Graphic file (type png)
 <use img/Diagramme_classes.png>
 Package pdftex.def Info: img/Diagramme_classes.png  used on input line 71. on i
@@ -1254,11 +1230,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [14 <./img/Diagramme_cas_utilisation_administration_challenge.png> <./img/Diagr
 amme_cas_utilisation_consultation_resultats.png>]
-<<<<<<< HEAD
 <img/Diagramme_activites.png, id=253, 736.25063pt x 354.57469pt>
-=======
-<img/Diagramme_activites.png, id=258, 736.25063pt x 354.57469pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/Diagramme_activites.png Graphic file (type png)
 <use img/Diagramme_activites.png>
 Package pdftex.def Info: img/Diagramme_activites.png  used on input line 105. o
@@ -1275,11 +1247,7 @@ Chapitre 3.
 [19
 
 ]
-<<<<<<< HEAD
 <img/R_logo.png, id=278, 392.46625pt x 366.36874pt>
-=======
-<img/R_logo.png, id=283, 392.46625pt x 366.36874pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/R_logo.png Graphic file (type png)
 <use img/R_logo.png>
 Package pdftex.def Info: img/R_logo.png  used on input line 11. on input line 1
@@ -1291,11 +1259,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
-<<<<<<< HEAD
 <img/Shiny_logo.png, id=279, 281.05pt x 281.05pt>
-=======
-<img/Shiny_logo.png, id=284, 281.05pt x 281.05pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/Shiny_logo.png Graphic file (type png)
 <use img/Shiny_logo.png>
 Package pdftex.def Info: img/Shiny_logo.png  used on input line 20. on input li
@@ -1313,11 +1277,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 [20 <./img/R_logo.png> <./img/Shiny_logo.png>] [21]
-<<<<<<< HEAD
 <img/desktop-logo.png, id=291, 256.96pt x 256.96pt>
-=======
-<img/desktop-logo.png, id=296, 256.96pt x 256.96pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/desktop-logo.png Graphic file (type png)
 <use img/desktop-logo.png>
 Package pdftex.def Info: img/desktop-logo.png  used on input line 61. on input 
@@ -1329,22 +1289,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
-<<<<<<< HEAD
 <img/latex.png, id=292, 1204.5pt x 501.875pt>
-=======
-<img/latex.png, id=297, 1204.5pt x 501.875pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/latex.png Graphic file (type png)
 <use img/latex.png>
 Package pdftex.def Info: img/latex.png  used on input line 70. on input line 70
 .
 Package pdftex.def Info: Requested size: 120.45705pt x 50.19043pt on input line
  70.
-<<<<<<< HEAD
 <img/rstudio.png, id=293, 390.45876pt x 129.48375pt>
-=======
-<img/rstudio.png, id=298, 390.45876pt x 129.48375pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/rstudio.png Graphic file (type png)
 <use img/rstudio.png>
 Package pdftex.def Info: img/rstudio.png  used on input line 78. on input line 
@@ -1352,11 +1304,7 @@ Package pdftex.def Info: img/rstudio.png  used on input line 78. on input line
 Package pdftex.def Info: Requested size: 78.09036pt x 25.89629pt on input line 
 78.
 [22 <./img/desktop-logo.png> <./img/latex.png> <./img/rstudio.png>]
-<<<<<<< HEAD
 <img/admin_global.PNG, id=302, 594.42075pt x 388.45125pt>
-=======
-<img/admin_global.PNG, id=307, 594.42075pt x 388.45125pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/admin_global.PNG Graphic file (type png)
 <use img/admin_global.PNG>
 Package pdftex.def Info: img/admin_global.PNG  used on input line 99. on input 
@@ -1368,11 +1316,7 @@ Overfull \hbox (51.27686pt too wide) in paragraph at lines 99--100
  [] 
  []
 
-<<<<<<< HEAD
 <img/ex_challenge.PNG, id=303, 614.295pt x 219.219pt>
-=======
-<img/ex_challenge.PNG, id=308, 614.295pt x 219.219pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/ex_challenge.PNG Graphic file (type png)
 <use img/ex_challenge.PNG>
 Package pdftex.def Info: img/ex_challenge.PNG  used on input line 105. on input
@@ -1387,11 +1331,7 @@ Overfull \hbox (69.16351pt too wide) in paragraph at lines 105--106
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<<<<<<< HEAD
 <img/ex_dl.PNG, id=304, 592.614pt x 152.9715pt>
-=======
-<img/ex_dl.PNG, id=309, 592.614pt x 152.9715pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/ex_dl.PNG Graphic file (type png)
 <use img/ex_dl.PNG>
 Package pdftex.def Info: img/ex_dl.PNG  used on input line 111. on input line 1
@@ -1407,11 +1347,7 @@ Overfull \hbox (49.6508pt too wide) in paragraph at lines 111--112
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [23 <./img/admin_global.PNG>] [24 <./img/ex_challenge.PNG> <./img/ex_dl.PNG>]
-<<<<<<< HEAD
 <img/online.PNG, id=325, 1120.185pt x 513.71925pt>
-=======
-<img/online.PNG, id=330, 1120.185pt x 513.71925pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/online.PNG Graphic file (type png)
 <use img/online.PNG>
 Package pdftex.def Info: img/online.PNG  used on input line 152. on input line 
@@ -1428,7 +1364,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
-<img/statsad.PNG, id=331, 938.3055pt x 517.33275pt>
+<img/statsad.PNG, id=326, 938.3055pt x 517.33275pt>
 File: img/statsad.PNG Graphic file (type png)
 <use img/statsad.PNG>
 Package pdftex.def Info: img/statsad.PNG  used on input line 183. on input line
@@ -1441,11 +1377,7 @@ Overfull \hbox (32.37276pt too wide) in paragraph at lines 183--184
  []
 
 [25 <./img/online.PNG>]
-<<<<<<< HEAD
 <img/statsjn.PNG, id=336, 986.4855pt x 414.95026pt>
-=======
-<img/statsjn.PNG, id=341, 986.4855pt x 414.95026pt>
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 File: img/statsjn.PNG Graphic file (type png)
 <use img/statsjn.PNG>
 Package pdftex.def Info: img/statsjn.PNG  used on input line 188. on input line
@@ -1457,7 +1389,6 @@ Overfull \hbox (58.87184pt too wide) in paragraph at lines 188--189
  [] 
  []
 
-<<<<<<< HEAD
 [26 <./img/statsad.PNG> <./img/statsjn.PNG>]) [27] (conclusion.tex) [28]
 (rapport_pic.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
@@ -1474,23 +1405,6 @@ serveur-R-shiny-su-
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
  [29
-=======
-<<<<<<< HEAD
-(contraintesAcquis.tex)) [26 <./img/statsad.PNG> <./img/statsjn.PNG>] [27]
-(conclusion.tex) [28] (rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
- [29
-=======
-(contraintesAcquis.tex)) [25 <./img/statsad.PNG> <./img/statsjn.PNG>] [26]
-(conclusion.tex) [27] (rapport_pic.bbl)
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
->>>>>>> 4ad23aa82745a90096d294ccf5dd6fd6d107d160
- [28
->>>>>>> 51ccc5ba0a474bd90d261bfd407b7ecd7db0b448
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
@@ -1502,30 +1416,10 @@ Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 30.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 10866 strings out of 493312
- 156333 string characters out of 3140192
- 247107 words of memory out of 3000000
- 14058 multiletter control sequences out of 15000+200000
-=======
-<<<<<<< HEAD
- 10861 strings out of 493312
- 156947 string characters out of 3138893
- 247055 words of memory out of 3000000
- 14053 multiletter control sequences out of 15000+200000
- 64916 words of font info for 54 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 34i,9n,32p,919b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
-=======
- 10860 strings out of 493312
-<<<<<<< HEAD
- 156343 string characters out of 3140192
-=======
- 156940 string characters out of 3138893
->>>>>>> 4ad23aa82745a90096d294ccf5dd6fd6d107d160
- 247054 words of memory out of 3000000
- 14053 multiletter control sequences out of 15000+200000
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
+ 10871 strings out of 493312
+ 156369 string characters out of 3140192
+ 247133 words of memory out of 3000000
+ 14059 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,9n,32p,919b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1535,31 +1429,9 @@ ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
-<<<<<<< HEAD
-Output written on rapport_pic.pdf (30 pages, 1382408 bytes).
+Output written on rapport_pic.pdf (30 pages, 1384262 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 111 named destinations out of 1000 (max. 500000)
+ 418 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
  292 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Output written on rapport_pic.pdf (29 pages, 1380774 bytes).
-=======
->>>>>>> 51ccc5ba0a474bd90d261bfd407b7ecd7db0b448
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
-mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/lm/lmsso12.pfb>
-<<<<<<< HEAD
-Output written on rapport_pic.pdf (30 pages, 1381272 bytes).
-=======
-Output written on rapport_pic.pdf (29 pages, 1380762 bytes).
->>>>>>> 4ad23aa82745a90096d294ccf5dd6fd6d107d160
->>>>>>> 51ccc5ba0a474bd90d261bfd407b7ecd7db0b448
-PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
- 300 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
 

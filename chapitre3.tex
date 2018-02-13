@@ -200,6 +200,9 @@ Voici comment s'est déroulé ce déploiement :
 \begin{enumerate} 
 	\item Installation de R, avec les packages nécessaires cités pus haut. \cite{ref2}
 	\item Installation de shiny-server \cite{ref3}
+	\item Configuration de shiny-server : deux serveurs lancés, l'un sur le port 3838 et l'autre sur le 3939. Les deux pointent vers deux dossiers de l'utilisateur "triathlon" créé pour l'occasion.
+	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créés les sous-domaine challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
+	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers excel nécessaire au fonctionnement.
 \end{enumerate}
 
 
@@ -214,8 +217,3 @@ Commencez par noter ce que vous attendez du test du logiciel, les problèmes que
 Les tests revêtent une importance capitale avant, lors et après le déploiement de logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.
 \subsubsection{Outil challenge}
 
-<<<<<<< HEAD
-=======
-
-\input{contraintesAcquis.tex}
->>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
