@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 11:00
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 11:02
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 10:52
->>>>>>> c98fad63b41b1b220247b800e5d8dc814b98bac1
->>>>>>> f8b8da54ecb05c343aeb9ed2b7fb0f3c1fbbbcf9
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 11:04
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1062,13 +1054,8 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/lmr/m/sc' tried instead on input line 18.
 
-<<<<<<< HEAD
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 24.
-("D:\Programmes\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
-=======
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
->>>>>>> c98fad63b41b1b220247b800e5d8dc814b98bac1
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 24.
@@ -1115,13 +1102,9 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 24.
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
-<<<<<<< HEAD
-{C:/Users/Félix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo
-_png.png> <./img/eilco.png>]) (rapport_pic.toc)
-=======
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/logo_png.png> <./im
-g/eilco.png> <./img/logo.png>]) (rapport_pic.toc)
->>>>>>> c98fad63b41b1b220247b800e5d8dc814b98bac1
+g/eilco.png>])
+(rapport_pic.toc)
 \tf@toc=\write4
 \openout4 = `rapport_pic.toc'.
 
@@ -1181,27 +1164,14 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 62--63
  []
 
 [7 <./img/recapitulatif_modalite_challenge.png>]
-<<<<<<< HEAD
-<img/diagramme_de_gantt.png, id=215, 732.48656pt x 246.1697pt>
-=======
-<img/diagramme_de_gantt.png, id=217, 950.80219pt x 201.75375pt>
->>>>>>> f8b8da54ecb05c343aeb9ed2b7fb0f3c1fbbbcf9
+<img/diagramme_de_gantt.png, id=217, 732.48656pt x 246.1697pt>
 File: img/diagramme_de_gantt.png Graphic file (type png)
 <use img/diagramme_de_gantt.png>
 Package pdftex.def Info: img/diagramme_de_gantt.png  used on input line 90. on 
 input line 90.
 Package pdftex.def Info: Requested size: 659.2318pt x 221.55066pt on input line
  90.
-
-Overfull \hbox (175.53493pt too wide) in paragraph at lines 90--91
- [] 
- []
-
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[8] (chapitre2.tex [9 <./img/diagramme_de_gantt.png>]
+) [8] [9 <./img/diagramme_de_gantt.png>] (chapitre2.tex
 Chapitre 2.
 [10
 
@@ -1390,12 +1360,6 @@ Overfull \hbox (20.38173pt too wide) in paragraph at lines 152--153
  [] 
  []
 
-<<<<<<< HEAD
-(contraintesAcquis.tex)) [24 <./img/online.PNG>] [25] (conclusion.tex) [26]
-(rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
- [27
-=======
 
 Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
@@ -1428,9 +1392,8 @@ Overfull \hbox (58.87184pt too wide) in paragraph at lines 188--189
 
 (contraintesAcquis.tex)) [25 <./img/statsad.PNG> <./img/statsjn.PNG>] [26]
 (conclusion.tex) [27] (rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
  [28
->>>>>>> f8b8da54ecb05c343aeb9ed2b7fb0f3c1fbbbcf9
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
@@ -1442,39 +1405,20 @@ Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 10859 strings out of 493312
- 156338 string characters out of 3140192
-=======
- 10849 strings out of 493312
- 156779 string characters out of 3138893
->>>>>>> c98fad63b41b1b220247b800e5d8dc814b98bac1
- 247051 words of memory out of 3000000
- 14052 multiletter control sequences out of 15000+200000
+ 10860 strings out of 493312
+ 156940 string characters out of 3138893
+ 247054 words of memory out of 3000000
+ 14053 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,32p,919b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
-<<<<<<< HEAD
-{D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
-2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
-/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
-.9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (29 pages, 1324569 bytes).
-=======
+ 34i,10n,32p,919b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
 mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/lm/lmsso12.pfb>
-<<<<<<< HEAD
-Output written on rapport_pic.pdf (28 pages, 1285093 bytes).
-=======
-Output written on rapport_pic.pdf (28 pages, 1229423 bytes).
->>>>>>> c98fad63b41b1b220247b800e5d8dc814b98bac1
->>>>>>> f8b8da54ecb05c343aeb9ed2b7fb0f3c1fbbbcf9
+Output written on rapport_pic.pdf (29 pages, 1380762 bytes).
 PDF statistics:
  405 PDF objects out of 1000 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
