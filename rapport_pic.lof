@@ -1,25 +1,24 @@
 \select@language {french}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie adultes selon leurs classements}}{6}{figure.1.1}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie jeunes selon leurs classements}}{6}{figure.1.2}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces R\IeC {\'e}capitulatif des modalit\IeC {\'e}s du challenge}}{7}{figure.1.3}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Le diagramme de Gantt du projet}}{10}{figure.1.4}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Le diagramme de packages du projet}}{12}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation relatif \IeC {\`a} l\IeC {\textquoteright }organisation d\IeC {\textquoteright }une course.}}{13}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation de la phase d\IeC {\textquoteright }administration.}}{14}{figure.2.3}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation de l\IeC {\textquoteright }affichage des r\IeC {\'e}sultats pour les participants.}}{14}{figure.2.4}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Le diagramme de classes du projet.}}{17}{figure.2.5}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s du projet}}{18}{figure.2.6}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Le logo du R project}}{20}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Le logo de Shiny}}{20}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Le logo de GitHub}}{22}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Le logo de LaTex}}{22}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Le logo de LaTex}}{22}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet Course}}{23}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet Challenge}}{24}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet T\IeC {\'e}l\IeC {\'e}chargement}}{24}{figure.3.8}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Aper\IeC {\c c}u de l'interface web affichant les r\IeC {\'e}sultats}}{25}{figure.3.9}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Statistiques globales adultes}}{26}{figure.3.10}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Statistiques globales jeunes}}{26}{figure.3.11}
+\contentsline {figure}{\numberline {1}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie adultes selon leurs classements}}{5}{figure.0.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Les points attribu\IeC {\'e}s aux participants de la cat\IeC {\'e}gorie jeunes selon leurs classements}}{5}{figure.0.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces R\IeC {\'e}capitulatif des modalit\IeC {\'e}s du challenge}}{6}{figure.0.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Le diagramme de Gantt du projet}}{9}{figure.0.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Le diagramme de packages du projet}}{10}{figure.0.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation relatif \IeC {\`a} l\IeC {\textquoteright }organisation d\IeC {\textquoteright }une course.}}{11}{figure.0.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation de la phase d\IeC {\textquoteright }administration.}}{12}{figure.0.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Le diagramme de cas d\IeC {\textquoteright }utilisation de l\IeC {\textquoteright }affichage des r\IeC {\'e}sultats pour les participants.}}{12}{figure.0.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Le diagramme de classes du projet.}}{23}{figure.0.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s du projet}}{24}{figure.0.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Le logo du R project}}{25}{figure.0.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Le logo de Shiny}}{25}{figure.0.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Le logo de GitHub}}{25}{figure.0.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Le logo de LaTex}}{25}{figure.0.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Le logo de LaTex}}{25}{figure.0.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet Course}}{26}{figure.0.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet Challenge}}{26}{figure.0.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Aper\IeC {\c c}u de l'interface de classement - Onglet T\IeC {\'e}l\IeC {\'e}chargement}}{27}{figure.0.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Code du classement par clubs - Original}}{27}{figure.0.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Code du classement par clubs - Nouveau}}{27}{figure.0.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Aper\IeC {\c c}u de l'interface web affichant les r\IeC {\'e}sultats}}{28}{figure.0.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Statistiques globales adultes}}{28}{figure.0.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Statistiques globales jeunes}}{29}{figure.0.23}
