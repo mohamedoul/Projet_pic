@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 12:14
+=======
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 12:14
+>>>>>>> 0a075236cc151f74f02bf7f66198bf8c57c00ba4
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1183,18 +1187,18 @@ File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type
 png)
 <use img/Diagramme_cas_utilisation_organisation_course.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png 
- used on input line 35. on input line 35.
+ used on input line 33. on input line 33.
 Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
-e 35.
+e 33.
 <img/Diagramme_cas_utilisation_administration_challenge.png, id=219, 455.45157p
 t x 283.81032pt>
 File: img/Diagramme_cas_utilisation_administration_challenge.png Graphic file (
 type png)
 <use img/Diagramme_cas_utilisation_administration_challenge.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_administration_challenge
-.png  used on input line 52. on input line 52.
+.png  used on input line 50. on input line 50.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
-e 52.
+e 50.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1205,39 +1209,32 @@ File: img/Diagramme_cas_utilisation_consultation_resultats.png Graphic file (ty
 pe png)
 <use img/Diagramme_cas_utilisation_consultation_resultats.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_consultation_resultats.p
-ng  used on input line 59. on input line 59.
+ng  used on input line 57. on input line 57.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
-e 59.
+e 57.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11 <./img/Diagramme_cas_utilisation_organisation_course.png>]
-<img/Diagramme_classes.png, id=226, 792.71156pt x 383.18156pt>
+[11 <./img/Diagramme_cas_utilisation_organisation_course.png>] [12 <./img/Diagr
+amme_cas_utilisation_administration_challenge.png> <./img/Diagramme_cas_utilisa
+tion_consultation_resultats.png>] [13]
+<img/Diagramme_classes.png, id=237, 792.71156pt x 383.18156pt>
 File: img/Diagramme_classes.png Graphic file (type png)
 <use img/Diagramme_classes.png>
-Package pdftex.def Info: img/Diagramme_classes.png  used on input line 71. on i
-nput line 71.
-Package pdftex.def Info: Requested size: 713.43382pt x 344.86021pt on input lin
-e 71.
- [12 <./img/Diagramme_cas_utilisation_administration_challenge.png> <./img/Diag
-ramme_cas_utilisation_consultation_resultats.png>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[13]
-<img/Diagramme_activites.png, id=239, 736.25063pt x 354.57469pt>
+Package pdftex.def Info: img/Diagramme_classes.png  used on input line 69. on i
+nput line 69.
+Package pdftex.def Info: Requested size: 634.1701pt x 306.54565pt on input line
+ 69.
+ [14] [15 <./img/Diagramme_classes.png>]
+<img/Diagramme_activites.png, id=247, 736.25063pt x 354.57469pt>
 File: img/Diagramme_activites.png Graphic file (type png)
 <use img/Diagramme_activites.png>
 Package pdftex.def Info: img/Diagramme_activites.png  used on input line 105. o
 n input line 105.
 Package pdftex.def Info: Requested size: 662.61945pt x 319.11427pt on input lin
 e 105.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [14] (chapitre3.tex
-<img/R_logo.png, id=246, 392.46625pt x 366.36874pt>
+) [16] [17 <./img/Diagramme_activites.png>] (chapitre3.tex
+<img/R_logo.png, id=258, 392.46625pt x 366.36874pt>
 File: img/R_logo.png Graphic file (type png)
 <use img/R_logo.png>
 Package pdftex.def Info: img/R_logo.png  used on input line 10. on input line 1
@@ -1245,15 +1242,11 @@ Package pdftex.def Info: img/R_logo.png  used on input line 10. on input line 1
 Package pdftex.def Info: Requested size: 78.49185pt x 73.27245pt on input line 
 10.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 13--16
 
  []
 
-<img/Shiny_logo.png, id=247, 281.05pt x 281.05pt>
+<img/Shiny_logo.png, id=259, 281.05pt x 281.05pt>
 File: img/Shiny_logo.png Graphic file (type png)
 <use img/Shiny_logo.png>
 Package pdftex.def Info: img/Shiny_logo.png  used on input line 19. on input li
@@ -1270,8 +1263,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[15] [16]
-<img/desktop-logo.png, id=257, 256.96pt x 256.96pt>
+[18 <./img/R_logo.png> <./img/Shiny_logo.png>] [19]
+<img/desktop-logo.png, id=272, 256.96pt x 256.96pt>
 File: img/desktop-logo.png Graphic file (type png)
 <use img/desktop-logo.png>
 Package pdftex.def Info: img/desktop-logo.png  used on input line 60. on input 
@@ -1279,36 +1272,26 @@ line 60.
 Package pdftex.def Info: Requested size: 51.39108pt x 51.39108pt on input line 
 60.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
-<img/latex.png, id=258, 1204.5pt x 501.875pt>
+<img/latex.png, id=273, 1204.5pt x 501.875pt>
 File: img/latex.png Graphic file (type png)
 <use img/latex.png>
 Package pdftex.def Info: img/latex.png  used on input line 69. on input line 69
 .
 Package pdftex.def Info: Requested size: 120.45705pt x 50.19043pt on input line
  69.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/rstudio.png, id=259, 390.45876pt x 129.48375pt>
+<img/rstudio.png, id=274, 390.45876pt x 129.48375pt>
 File: img/rstudio.png Graphic file (type png)
 <use img/rstudio.png>
 Package pdftex.def Info: img/rstudio.png  used on input line 77. on input line 
 77.
 Package pdftex.def Info: Requested size: 78.09036pt x 25.89629pt on input line 
 77.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[17]
-<img/admin_global.PNG, id=265, 594.42075pt x 388.45125pt>
+[20 <./img/desktop-logo.png> <./img/latex.png> <./img/rstudio.png>]
+<img/admin_global.PNG, id=283, 594.42075pt x 388.45125pt>
 File: img/admin_global.PNG Graphic file (type png)
 <use img/admin_global.PNG>
 Package pdftex.def Info: img/admin_global.PNG  used on input line 98. on input 
@@ -1320,10 +1303,7 @@ Overfull \hbox (51.27686pt too wide) in paragraph at lines 98--99
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/ex_challenge.PNG, id=266, 614.295pt x 219.219pt>
+<img/ex_challenge.PNG, id=284, 614.295pt x 219.219pt>
 File: img/ex_challenge.PNG Graphic file (type png)
 <use img/ex_challenge.PNG>
 Package pdftex.def Info: img/ex_challenge.PNG  used on input line 104. on input
@@ -1338,7 +1318,7 @@ Overfull \hbox (69.16351pt too wide) in paragraph at lines 104--105
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/ex_dl.PNG, id=267, 592.614pt x 152.9715pt>
+<img/ex_dl.PNG, id=285, 592.614pt x 152.9715pt>
 File: img/ex_dl.PNG Graphic file (type png)
 <use img/ex_dl.PNG>
 Package pdftex.def Info: img/ex_dl.PNG  used on input line 110. on input line 1
@@ -1353,8 +1333,8 @@ Overfull \hbox (49.6508pt too wide) in paragraph at lines 110--111
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18]
-<img/codeoriginal.PNG, id=274, 612.48825pt x 490.2315pt>
+[21 <./img/admin_global.PNG>] [22 <./img/ex_challenge.PNG> <./img/ex_dl.PNG>]
+<img/codeoriginal.PNG, id=305, 612.48825pt x 490.2315pt>
 File: img/codeoriginal.PNG Graphic file (type png)
 <use img/codeoriginal.PNG>
 Package pdftex.def Info: img/codeoriginal.PNG  used on input line 148. on input
@@ -1366,10 +1346,7 @@ Overfull \hbox (67.53746pt too wide) in paragraph at lines 148--149
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/codenew.PNG, id=275, 629.35126pt x 41.55525pt>
+<img/codenew.PNG, id=306, 629.35126pt x 41.55525pt>
 File: img/codenew.PNG Graphic file (type png)
 <use img/codenew.PNG>
 Package pdftex.def Info: img/codenew.PNG  used on input line 154. on input line
@@ -1381,60 +1358,58 @@ Overfull \hbox (82.71402pt too wide) in paragraph at lines 154--155
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/online.PNG, id=276, 1120.185pt x 513.71925pt>
+[23 <./img/codeoriginal.PNG> <./img/codenew.PNG>]
+<img/online.PNG, id=316, 1120.185pt x 513.71925pt>
 File: img/online.PNG Graphic file (type png)
 <use img/online.PNG>
-Package pdftex.def Info: img/online.PNG  used on input line 170. on input line 
-170.
+Package pdftex.def Info: img/online.PNG  used on input line 168. on input line 
+168.
 Package pdftex.def Info: Requested size: 504.0786pt x 231.17152pt on input line
- 170.
+ 168.
 
-Overfull \hbox (20.38173pt too wide) in paragraph at lines 170--171
+Overfull \hbox (20.38173pt too wide) in paragraph at lines 168--169
  [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
 
  []
 
-[19]
-<img/statsad.PNG, id=292, 938.3055pt x 517.33275pt>
+<img/statsad.PNG, id=317, 938.3055pt x 517.33275pt>
 File: img/statsad.PNG Graphic file (type png)
 <use img/statsad.PNG>
-Package pdftex.def Info: img/statsad.PNG  used on input line 201. on input line
- 201.
+Package pdftex.def Info: img/statsad.PNG  used on input line 199. on input line
+ 199.
 Package pdftex.def Info: Requested size: 516.06963pt x 284.53389pt on input lin
-e 201.
+e 199.
 
-Overfull \hbox (32.37276pt too wide) in paragraph at lines 201--202
+Overfull \hbox (32.37276pt too wide) in paragraph at lines 199--200
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/statsjn.PNG, id=293, 986.4855pt x 414.95026pt>
+<img/statsjn.PNG, id=318, 986.4855pt x 414.95026pt>
 File: img/statsjn.PNG Graphic file (type png)
 <use img/statsjn.PNG>
-Package pdftex.def Info: img/statsjn.PNG  used on input line 206. on input line
- 206.
+Package pdftex.def Info: img/statsjn.PNG  used on input line 204. on input line
+ 204.
 Package pdftex.def Info: Requested size: 542.56871pt x 228.22334pt on input lin
-e 206.
+e 204.
 
-Overfull \hbox (58.87184pt too wide) in paragraph at lines 206--207
+Overfull \hbox (58.87184pt too wide) in paragraph at lines 204--205
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
+[24 <./img/online.PNG>] [25 <./img/statsad.PNG> <./img/statsjn.PNG>]) [26]
+[27] (conclusion.tex) [28] (rapport_pic.bbl
+=======
 [20]
 Overfull \hbox (131.74358pt too wide) in paragraph at lines 257--263
 \T1/lmr/m/n/12 ensemble de ces tests concernent les deux mo-dules dé-ve-lop-pés
@@ -1447,6 +1422,7 @@ Overfull \hbox (131.74358pt too wide) in paragraph at lines 257--263
 rstudio.png>] [26 <./img/admin_global.PNG> <./img/ex_challenge.PNG>] [27 <./img
 /ex_dl.PNG> <./img/codeoriginal.PNG> <./img/codenew.PNG>] [28 <./img/online.PNG
 > <./img/statsad.PNG>] [29 <./img/statsjn.PNG>]
+>>>>>>> 0a075236cc151f74f02bf7f66198bf8c57c00ba4
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\T1/lmr/m/n/12 developpez.com.  Ins-tal-la-tion de shiny-server sur de-bian, 
 2018.
@@ -1459,8 +1435,13 @@ serveur-R-shiny-su-
  []
 
 )
+<<<<<<< HEAD
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
+ [29
+=======
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
  [30
+>>>>>>> 0a075236cc151f74f02bf7f66198bf8c57c00ba4
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
@@ -1472,6 +1453,22 @@ Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
+ 10877 strings out of 493312
+ 156546 string characters out of 3140192
+ 247132 words of memory out of 3000000
+ 14064 multiletter control sequences out of 15000+200000
+ 64916 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,9n,32p,919b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
+2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
+/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
+.9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmsso12.pfb>
+Output written on rapport_pic.pdf (30 pages, 1425817 bytes).
+=======
  10881 strings out of 493312
  157227 string characters out of 3138893
  252132 words of memory out of 3000000
@@ -1486,8 +1483,9 @@ mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/lm/lmsso12.pfb>
 Output written on rapport_pic.pdf (31 pages, 1427268 bytes).
+>>>>>>> 0a075236cc151f74f02bf7f66198bf8c57c00ba4
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
  278 words of extra memory for PDF output out of 10000 (max. 10000000)
 

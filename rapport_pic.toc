@@ -17,19 +17,19 @@
 \contentsline {subsection}{\numberline {B.3}Diagramme de classes}{12}{subsection.0.2.3}
 \contentsline {subsubsection}{D\IeC {\'e}finition}{12}{section*.8}
 \contentsline {subsubsection}{Les classes}{13}{section*.9}
-\contentsline {subsubsection}{Les relations entres les classes}{13}{section*.10}
-\contentsline {subsection}{\numberline {B.4}Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s}{14}{subsection.0.2.4}
-\contentsline {subsubsection}{D\IeC {\'e}finition}{14}{section*.11}
-\contentsline {subsubsection}{Le diagramme d'activit\IeC {\'e} du projet}{14}{section*.12}
-\contentsline {section}{\numberline {C}R\IeC {\'e}alisation du projet}{15}{section.0.3}
-\contentsline {subsection}{\numberline {C.1}Langages \& outils utilis\IeC {\'e}s}{15}{subsection.0.3.1}
-\contentsline {subsubsection}{Langage R \& package Shiny}{15}{section*.13}
-\contentsline {subsubsection}{GitHub, LaTex, RStudio}{17}{section*.14}
-\contentsline {subsection}{\numberline {C.2}Les deux outils distincts du projet}{18}{subsection.0.3.2}
-\contentsline {subsubsection}{Outil classement}{18}{section*.15}
-\contentsline {subsubsection}{Outil challenge}{19}{section*.16}
-\contentsline {subsection}{\numberline {C.3}D\IeC {\'e}ploiement du projet}{20}{subsection.0.3.3}
-\contentsline {subsection}{\numberline {C.4}La documentation automatique}{20}{subsection.0.3.4}
-\contentsline {subsection}{\numberline {C.5}Sch\IeC {\'e}ma des tests}{20}{subsection.0.3.5}
-\contentsline {subsubsection}{Outil classement}{21}{section*.17}
-\contentsline {subsubsection}{Outil challenge}{21}{section*.18}
+\contentsline {subsubsection}{Les relations entres les classes}{14}{section*.10}
+\contentsline {subsection}{\numberline {B.4}Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s}{16}{subsection.0.2.4}
+\contentsline {subsubsection}{D\IeC {\'e}finition}{16}{section*.11}
+\contentsline {subsubsection}{Le diagramme d'activit\IeC {\'e} du projet}{16}{section*.12}
+\contentsline {section}{\numberline {C}R\IeC {\'e}alisation du projet}{18}{section.0.3}
+\contentsline {subsection}{\numberline {C.1}Langages \& outils utilis\IeC {\'e}s}{18}{subsection.0.3.1}
+\contentsline {subsubsection}{Langage R \& package Shiny}{18}{section*.13}
+\contentsline {subsubsection}{GitHub, LaTex, RStudio}{20}{section*.14}
+\contentsline {subsection}{\numberline {C.2}Les deux outils distincts du projet}{21}{subsection.0.3.2}
+\contentsline {subsubsection}{Outil classement}{21}{section*.15}
+\contentsline {subsubsection}{Outil challenge}{24}{section*.16}
+\contentsline {subsection}{\numberline {C.3}D\IeC {\'e}ploiement du projet}{25}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {C.4}La documentation automatique}{26}{subsection.0.3.4}
+\contentsline {subsection}{\numberline {C.5}Sch\IeC {\'e}ma des tests}{26}{subsection.0.3.5}
+\contentsline {subsubsection}{Outil classement}{26}{section*.17}
+\contentsline {subsubsection}{Outil challenge}{26}{section*.18}
