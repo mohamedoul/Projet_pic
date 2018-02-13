@@ -207,10 +207,16 @@ En voici un aperçu :
 
 
 \subsection {Déploiement du projet}
+Grâce aux réunions effectuées avec le client, nous avons appris que la ligue Hauts-de-France dispose d'un serveur OVH sur lequel nous pourrions déployer l'application. \\
+On a obtenu les identifiants pas M. Nicolas PIERENS, ce qui nous a permis de voir que l'offre que la ligue a souscrit n'est qu'une offre web, le déployement n'est possible que sur un serveur dédié, un VPS. Ainsi, nous avons vu plusieurs possibilités de déploiement : 
+\begin{itemize}
+\item  La plus adéquate : Demander à notre client de louer un VPS avec leur offre OVH, ce qui permettrait à la ligue d'obtenir notre application sur leur serveur dédié. Cela nécessite de payer moins de 4\euro par mois et d'avoir une personne chargée de tenir le serveur pour les mises à jour ou souci techniques liés au déploiement.
+\item La plus économique : Déployer le serveur sur un serveur de l'ULCO, cela permet de ne pas payer de VPS mais les serveurs de l'université pourraient ne pas supporter plusieurs connexions simultanées.
+\item La plus simple car déjà effective : Déployer l'application sur un serveur privé d'un étudiant. Cela permet d'éviter la location d'un VPS pour la ligue, mais l'étudiant sert d'hébergeur secondaire et d'ici quelques mois, ce dernier ne sera peut-être plus concerné par ce projet.
+\end{itemize} 
 
 Comme énoncé précédemment, le projet a besoin d'un serveur R shiny pour déployer les outils sur le web.
 Pour cela nous disposons d'un serveur personnel debian ainsi que d'une adresse ipv4 valide.
-
 Voici comment s'est déroulé ce déploiement :
 
 \begin{enumerate} 
@@ -239,9 +245,9 @@ La première phase  des tests sur l'outil challenge consiste en la validation du
 \begin{itemize}
 \item Tester les la modification des entêtes du fichiers Excel
 \item Tester le choix des valeurs qui doivent être entrées par l'utilisateurs
-\item Tester l'existence du fichier xl de la course
+\item Tester l'existence du fichier xlsx de la course
 \item Tester l'existences des homonymes(validé)
-\item Tester  l'ajout d'une course
+\item Tester l'ajout d'une course
 \item Tester les homonymes
 \end{itemize}
 \subsubsection{Outil challenge}
@@ -265,8 +271,5 @@ S'agissant de l'outil challenge, les tests réalisé sont les suivants:
 \item La visualisation des résultats d'un seul sportif en cliquant sur la ligne correspondante
 \item L'affichage des graphes représentant les statistiques de chaque sportif.
 \end{itemize}
-
-
-                                                                                                                                                                                                                                                ensemble de ces tests concernent les deux modules développés à savoir :
 
 
