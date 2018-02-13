@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 12:28
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 12:19
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 12:19
+>>>>>>> d4af02ed46ed503874db44542580181cf8f95c56
+>>>>>>> bfbdace7e1fd4aa0901d78f97a30880ae8b5ab1e
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1407,12 +1415,21 @@ Overfull \hbox (58.87184pt too wide) in paragraph at lines 204--205
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 [24 <./img/online.PNG>] [25 <./img/statsad.PNG> <./img/statsjn.PNG>] [26]
 Underfull \hbox (badness 10000) in paragraph at lines 256--259
 
  []
 
 ) [27] (conclusion.tex) [28] (rapport_pic.bbl
+=======
+[24 <./img/online.PNG>] [25 <./img/statsad.PNG> <./img/statsjn.PNG>]) [26]
+<<<<<<< HEAD
+(conclusion.tex) [27] (rapport_pic.bbl
+=======
+[27] (conclusion.tex) [28] (rapport_pic.bbl
+>>>>>>> d4af02ed46ed503874db44542580181cf8f95c56
+>>>>>>> bfbdace7e1fd4aa0901d78f97a30880ae8b5ab1e
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\T1/lmr/m/n/12 developpez.com.  Ins-tal-la-tion de shiny-server sur de-bian, 
 2018.
@@ -1426,7 +1443,11 @@ serveur-R-shiny-su-
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
+<<<<<<< HEAD
+ [28
+=======
  [29
+>>>>>>> d4af02ed46ed503874db44542580181cf8f95c56
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
@@ -1438,22 +1459,49 @@ Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  10887 strings out of 493312
  156616 string characters out of 3140192
+=======
+<<<<<<< HEAD
+ 10876 strings out of 493312
+ 157109 string characters out of 3138893
+=======
+ 10877 strings out of 493312
+ 156546 string characters out of 3140192
+>>>>>>> d4af02ed46ed503874db44542580181cf8f95c56
+>>>>>>> bfbdace7e1fd4aa0901d78f97a30880ae8b5ab1e
  247132 words of memory out of 3000000
  14064 multiletter control sequences out of 15000+200000
  64916 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,9n,32p,919b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
+<<<<<<< HEAD
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
+mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/lm/lmsso12.pfb>
+Output written on rapport_pic.pdf (29 pages, 1425129 bytes).
+=======
 {D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
 2.9/fonts/type1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/publ
 ic/lm/lmcsc10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:
 /Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2
 .9/fonts/type1/public/lm/lmssbx10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmsso12.pfb>
+<<<<<<< HEAD
 Output written on rapport_pic.pdf (30 pages, 1427462 bytes).
 PDF statistics:
  422 PDF objects out of 1000 (max. 8388607)
  124 named destinations out of 1000 (max. 500000)
+=======
+Output written on rapport_pic.pdf (30 pages, 1425859 bytes).
+>>>>>>> d4af02ed46ed503874db44542580181cf8f95c56
+PDF statistics:
+ 406 PDF objects out of 1000 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
+>>>>>>> bfbdace7e1fd4aa0901d78f97a30880ae8b5ab1e
  278 words of extra memory for PDF output out of 10000 (max. 10000000)
 
