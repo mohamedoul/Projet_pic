@@ -201,21 +201,22 @@ Voici comment s'est déroulé ce déploiement :
 	\item Installation de R, avec les packages nécessaires cités pus haut. \cite{ref2}
 	\item Installation de shiny-server \cite{ref3}
 	\item Configuration de shiny-server : deux serveurs lancés, l'un sur le port 3838 et l'autre sur le 3939. Les deux pointent vers deux dossiers de l'utilisateur "triathlon" créé pour l'occasion.
-	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créés les sous-domaine challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
-	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers excel nécessaire au fonctionnement.
-\end{enumerate}
+us-domaine challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
 
-
-\subsection {La documentation automatique}
-La documentation du projet consiste commenter toutes les fonctions pour faciliter la comprhénsion du codes et les changements futurs à effectuer.
-Dans le cadre de notre projet,  la documentation  
 
 
 \subsection {Schéma des tests}
 Les tests revêtent une importance capitale avant, lors et après le déploiement du logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.Ainsi, il demeure important de  le schéma et le type de tests à effectuer. \\
-Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptance lors du déploiement du projet sur le serveur dédié.
+Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
+L'ensemble de ces tests concernent les deux modules développés à savoir 
+
 
 \subsubsection{Outil classement}
 
 \subsubsection{Outil challenge}
 
+<<<<<<< HEAD
+=======
+
+\input{contraintesAcquis.tex}
+>>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
