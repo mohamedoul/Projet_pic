@@ -36,3 +36,7 @@
 \contentsline {subsection}{\numberline {A.5}Sch\IeC {\'e}ma des tests}{27}{subsection.3.1.5}
 \contentsline {subsubsection}{Outil classement}{27}{section*.17}
 \contentsline {subsubsection}{Outil challenge}{27}{section*.18}
+<<<<<<< HEAD
+=======
+\contentsline {subsection}{\numberline {A.6}Contraintes et acquis}{27}{subsection.3.1.6}
+>>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
