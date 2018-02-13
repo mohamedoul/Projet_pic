@@ -6,4 +6,15 @@ LigueHDF.
 \newblock
   http://triathlonhdf.fr/samedi-03-fevrier-2018-la-ligue-des-hauts-de-france-de-triathlon-est-creee/.
 
+\bibitem{ref2}
+R~project.
+\newblock Installation de r sur debian, 2018.
+\newblock https://cran.r-project.org/bin/linux/debian/.
+
+\bibitem{ref3}
+developpez.com.
+\newblock Installation de shiny-server sur debian, 2018.
+\newblock
+  https://r.developpez.com/actu/89499/Installer-et-configurer-un-serveur-R-shiny-su-Ubuntu/.
+
 \end{thebibliography}

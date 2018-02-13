@@ -192,16 +192,32 @@ En voici un aperçu :
 
 \subsection {Déploiement du projet}
 
+Comme énoncé précédemment, le projet a besoin d'un serveur R shiny pour déployer les outils sur le web.
+Pour cela nous disposons d'un serveur personnel debian ainsi que d'une adresse ipv4 valide.
+
+Voici comment s'est déroulé ce déploiement :
+
+\begin{enumerate} 
+	\item Installation de R, avec les packages nécessaires cités pus haut. \cite{ref2}
+	\item Installation de shiny-server \cite{ref3}
+\end{enumerate}
+
+
 \subsection {La documentation automatique}
 La documentation du projet consiste commenter toutes les fonctions pour faciliter la comprhénsion du codes et les changements futurs à effectuer.
 Dans le cadre de notre projet,  la documentation  
 
 
 \subsection {Schéma des tests}
+Les tests revêtent une importance capitale avant, lors et après le déploiement du logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.Ainsi, il demeure important de  le schéma et le type de tests à effectuer. \\
+Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptance lors du déploiement du projet sur le serveur dédié.
 
 \subsubsection{Outil classement}
-Les tests revêtent une importance capitale avant, lors et après le déploiement de logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.
+
 \subsubsection{Outil challenge}
 
+<<<<<<< HEAD
+=======
 
 \input{contraintesAcquis.tex}
+>>>>>>> 575efd8875e13fa19d5c223d8588cbbca54cfcbb
