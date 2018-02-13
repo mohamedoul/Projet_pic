@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 10:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 11:00
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1170,15 +1170,15 @@ Overfull \hbox (42.74005pt too wide) in paragraph at lines 62--63
  []
 
 [7 <./img/recapitulatif_modalite_challenge.png>]
-<img/diagramme_de_gantt.png, id=215, 950.80219pt x 201.75375pt>
+<img/diagramme_de_gantt.png, id=215, 732.48656pt x 246.1697pt>
 File: img/diagramme_de_gantt.png Graphic file (type png)
 <use img/diagramme_de_gantt.png>
 Package pdftex.def Info: img/diagramme_de_gantt.png  used on input line 90. on 
 input line 90.
-Package pdftex.def Info: Requested size: 855.71407pt x 181.57669pt on input lin
-e 90.
+Package pdftex.def Info: Requested size: 659.2318pt x 221.55066pt on input line
+ 90.
 
-Overfull \hbox (372.0172pt too wide) in paragraph at lines 90--91
+Overfull \hbox (175.53493pt too wide) in paragraph at lines 90--91
  [] 
  []
 
@@ -1377,17 +1377,17 @@ Overfull \hbox (20.38173pt too wide) in paragraph at lines 152--153
 
 (contraintesAcquis.tex)) [24 <./img/online.PNG>] [25] (conclusion.tex) [26]
 (rapport_pic.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 33.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 32.
  [27
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 32.
  (rapport_pic.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 32.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 32.
 Package rerunfilecheck Info: File `rapport_pic.out' has not changed.
 (rerunfilecheck)             Checksum: 1859008EA9B8B75167E36D921F2BF728;1816.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
  ) 
 Here is how much of TeX's memory you used:
  10849 strings out of 493312
@@ -1403,7 +1403,7 @@ ype1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
 mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (28 pages, 1229423 bytes).
+Output written on rapport_pic.pdf (28 pages, 1285093 bytes).
 PDF statistics:
  392 PDF objects out of 1000 (max. 8388607)
  102 named destinations out of 1000 (max. 500000)
