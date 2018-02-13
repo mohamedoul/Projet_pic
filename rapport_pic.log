@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 13:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  13 FEB 2018 14:33
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1178,10 +1178,10 @@ Package pdftex.def Info: Requested size: 659.2318pt x 221.55066pt on input line
 <img/Diagramme_de_packages.png, id=212, 535.2497pt x 216.05719pt>
 File: img/Diagramme_de_packages.png Graphic file (type png)
 <use img/Diagramme_de_packages.png>
-Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 13. 
-on input line 13.
+Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 12. 
+on input line 12.
 Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
-e 13.
+e 12.
  [10 <./img/Diagramme_de_packages.png>]
 <img/Diagramme_cas_utilisation_organisation_course.png, id=220, 463.7325pt x 31
 3.17pt>
@@ -1189,9 +1189,9 @@ File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type
 png)
 <use img/Diagramme_cas_utilisation_organisation_course.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png 
- used on input line 33. on input line 33.
+ used on input line 32. on input line 32.
 Package pdftex.def Info: Requested size: 417.35538pt x 281.85037pt on input lin
-e 33.
+e 32.
  [11 <./img/Diagramme_cas_utilisation_organisation_course.png>]
 <img/Diagramme_cas_utilisation_administration_challenge.png, id=226, 455.45157p
 t x 283.81032pt>
@@ -1199,35 +1199,35 @@ File: img/Diagramme_cas_utilisation_administration_challenge.png Graphic file (
 type png)
 <use img/Diagramme_cas_utilisation_administration_challenge.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_administration_challenge
-.png  used on input line 50. on input line 50.
+.png  used on input line 49. on input line 49.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
-e 50.
+e 49.
 <img/Diagramme_cas_utilisation_consultation_resultats.png, id=227, 455.45157pt 
 x 283.81032pt>
 File: img/Diagramme_cas_utilisation_consultation_resultats.png Graphic file (ty
 pe png)
 <use img/Diagramme_cas_utilisation_consultation_resultats.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_consultation_resultats.p
-ng  used on input line 57. on input line 57.
+ng  used on input line 56. on input line 56.
 Package pdftex.def Info: Requested size: 409.90262pt x 255.42691pt on input lin
-e 57.
+e 56.
  [12 <./img/Diagramme_cas_utilisation_administration_challenge.png> <./img/Diag
 ramme_cas_utilisation_consultation_resultats.png>]
 <img/Diagramme_classes.png, id=233, 792.71156pt x 383.18156pt>
 File: img/Diagramme_classes.png Graphic file (type png)
 <use img/Diagramme_classes.png>
-Package pdftex.def Info: img/Diagramme_classes.png  used on input line 69. on i
-nput line 69.
+Package pdftex.def Info: img/Diagramme_classes.png  used on input line 68. on i
+nput line 68.
 Package pdftex.def Info: Requested size: 634.1701pt x 306.54565pt on input line
- 69.
+ 68.
  [13] [14 <./img/Diagramme_classes.png>]
 <img/Diagramme_activites.png, id=245, 736.25063pt x 354.57469pt>
 File: img/Diagramme_activites.png Graphic file (type png)
 <use img/Diagramme_activites.png>
-Package pdftex.def Info: img/Diagramme_activites.png  used on input line 104. o
-n input line 104.
+Package pdftex.def Info: img/Diagramme_activites.png  used on input line 103. o
+n input line 103.
 Package pdftex.def Info: Requested size: 662.61945pt x 319.11427pt on input lin
-e 104.
+e 103.
 ) [15] [16 <./img/Diagramme_activites.png>] (chapitre3.tex
 File: img/R_logo.png Graphic file (type png)
 <use img/R_logo.png>
@@ -1401,12 +1401,7 @@ Overfull \hbox (58.87184pt too wide) in paragraph at lines 204--205
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [23 <./img/online.PNG>] [24 <./img/statsad.PNG> <./img/statsjn.PNG>] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
 
  []
 
@@ -1442,7 +1437,7 @@ Here is how much of TeX's memory you used:
  14068 multiletter control sequences out of 15000+200000
  69295 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,32p,919b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,32p,920b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Programmes/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<D:/Programmes/MiKTeX 
 2.9/fonts/type1/public/eurosym/feymr10.pfb><D:/Programmes/MiKTeX 2.9/fonts/type
 1/public/lm/lmbx12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.
@@ -1450,7 +1445,7 @@ pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><D:/Programmes/Mi
 KTeX 2.9/fonts/type1/public/lm/lmri12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1
 /public/lm/lmss12.pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.
 pfb><D:/Programmes/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb>
-Output written on rapport_pic.pdf (30 pages, 1453439 bytes).
+Output written on rapport_pic.pdf (30 pages, 1453404 bytes).
 PDF statistics:
  420 PDF objects out of 1000 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)

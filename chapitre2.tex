@@ -2,12 +2,11 @@
 
 Ce chapitre présentera les outils utilisés pour la réalisation de la conception de notre projet. Par ailleurs, il relate ses différentes étapes, ainsi que les diagrammes dégagés après chaque étape.
 
-
 \subsection {Diagramme des packages}
 \subsubsection{Définition}
-Le diagramme de packages est un diagramme UML qui fournit une représentation graphique de haut niveau de l'organisation de l’application à réaliser.
-\subsubsection{Diagramme de packages du projet}
-De prime abord, il convient de distinguer les différents modules à développer dans le cadre du projet. Ainsi le diagramme de packages illustrer dans la figure ci-après montre clairement les trois modules à mettre en jeu.
+Le diagramme des packages est un diagramme UML qui fournit une représentation graphique de haut niveau de l'organisation de l’application à réaliser.
+\subsubsection{Diagramme des packages du projet}
+De prime abord, il convient de distinguer les différents modules à développer dans le cadre du projet. Ainsi le diagramme de packages illustré dans la figure 5 ci-après montre clairement les trois modules à mettre en jeu.
 \begin{figure}[!h]
 	   \center
 	   \includegraphics[scale=0.9]{img/Diagramme_de_packages.png}
@@ -21,10 +20,10 @@ Ce diagramme permet de dégager trois packages principaux qui seront détaillés
 \subsubsection{Définition}
 Les cas d'utilisation sont définis par une description textuelle, décrivant les objectifs et interactions entre le système et ses acteurs. Le format de présentation textuelle des cas d'utilisation est libre.
 \subsubsection{Diagramme de cas d’utilisation }
-Comme illustré par le diagramme de packages, trois modules sont à développer. Ces modules nécessitent l’élaboration de trois cas d’utilisation. Le premier cas d’utilisation du projet traite de la phase de l’organisation d’une course (tel montré sur la figure ci-dessous). En effet le seul acteur qui interagit avec le système dans ce cas est l’organisateur de la course. Ainsi le système doit permettre de réaliser un certain nombre de fonctionnalités qui sont répertoriées comme suit :
+Comme illustré par le diagramme des packages, trois modules sont à développer. Ces modules nécessitent l’élaboration de trois cas d’utilisation. Le premier cas d’utilisation du projet traite de la phase de l’organisation d’une course (tel montré sur la figure ci-dessous). En effet le seul acteur qui interagit avec le système dans ce cas est l’organisateur de la course. Ainsi le système doit permettre de réaliser un certain nombre de fonctionnalités qui sont répertoriées comme suit :
 \begin{itemize} 
-\item La saisie des données des participants dans une course ;
-\item  L’établissement du classement des participants dans la course ;
+\item La saisie des données des participants dans une course
+\item  L’établissement du classement des participants dans la course
 \item  L’envoi des résultats finaux à la ligue pour permettre à l’administrateur de mettre à jour le fichier des challenges.
 \end{itemize} 
 
@@ -37,13 +36,13 @@ Comme illustré par le diagramme de packages, trois modules sont à développer.
 
 S’agissant de l’étape de l’administration, l’acteur qui utilise le système est l’administrateur de la ligue. Dans ce cas l’administrateur doit pouvoir effectuer les tâches suivantes :
 \begin{itemize} 
-\item Valider les fichiers des courses envoyé par les organisateurs des courses (Supprimer les participants qui ne sont pas inscrits dans la ligue, traiter les homonymes…) ;
+\item Valider les fichiers des courses envoyés par les organisateurs des courses (Supprimer les participants qui ne sont pas inscrits dans la ligue, traiter les homonymes…) ;
 \item Créer le fichier challenge, s’il n’existe pas et le mettre à jour ;
 \item  Consulter les résultats et les statistiques inhérentes aux courses selon un certain nombre de critères de choix (comme les clubs, les catégories…).
 \end{itemize} 
 
 \newpage
-Ainsi la figues ci-dessous illustre clairement le cas d’utilisation de cette étape.
+Ainsi la figure ci-dessous illustre clairement le cas d’utilisation de cette étape.
 
 \begin{figure}[!h]
 	   \center
@@ -62,7 +61,7 @@ La figure ci-après montre ces étapes :
 Le diagramme de classes est un schéma utilisé en génie logiciel pour présenter les classes et les interfaces des systèmes ainsi que les différentes relations entre celles-ci. Ce diagramme fait partie de la partie statique d'UML car il fait abstraction des aspects temporels et dynamiques.
 
 \subsubsection{Les classes}
-Le diagramme de classes du projet est illustré par la figure présente page suivante.
+Le diagramme des classes du projet est illustré par la figure présente page suivante.
 
 \begin{sidewaysfigure}
 	   \center
@@ -70,7 +69,7 @@ Le diagramme de classes du projet est illustré par la figure présente page sui
 	   \caption {Diagramme des classes du projet}
 \end{sidewaysfigure}
 
-Le diagramme de classes du projet, figurant dans la capture d’écran précédente est composé de huit classes répertoriées comme suit :
+Le diagramme des classes du projet, figurant dans la capture d’écran précédente est composé de huit classes répertoriées comme suit :
 \begin{itemize} 
  	\item La classe Personne qui est une classe abstraite dont héritent les classes Participant, Organisateur et Administrateur. Cette classe possède les attributs suivants : identifiant de la personne, son nom, son prénom, son email et son numéro de téléphone.
  	\item La classe Participant qui est une classe fille de la classe Personne qui possède, en plus des attributs hérités de la classe Personne, un attribut identifiant national qui va permettre de pallier au problème des homonymes dans l’avenir si une migration des données vers une base de données nationale est projetée.
@@ -80,13 +79,13 @@ Le diagramme de classes du projet, figurant dans la capture d’écran précéde
  	\item La classe Challenge : est une classe qui symbolise les challenges, elle est caractérisée par les attributs : nom, et l’année de création du challenge.
  	\item La classe Course : contient les informations relatives aux courses organisées (la date de l’organisation de la course, le nombre de participants, le lieu d’organisation).
  	\item La classe Catégorie : Comme les participants dans les courses appartiennent à des catégories différentes, il est nécessaire d’implémenter une classe qui stocke les informations inhérentes à chaque catégorie. 
-\end{itemize} 
+\end{itemize}
 \subsubsection{Les relations entres les classes}
-Les différentes classes du diagramme peuvent être liées par des types de relations variées selon la type de relation entre elles et également selon le nombre d’instances générées de chacune d’entre elle lors de l’exécution. Ainsi cet axe est dédié pour détailler ces relations.
+Les différentes classes du diagramme peuvent être liées par des types de relations variées selon le type de relation entre elles et également selon le nombre d’instances générées de chacune d’entre elles lors de l’exécution. Ainsi cet axe est dédié pour détailler ces relations.
 \begin{itemize} 
  	\item Les classes Participant, Organisateur et Administrateur sont des classes filles de la classe Personne, c’est-à-dire qu’elles héritent des méthodes et des attributs de celle-ci. Il reste à préciser que les méthodes seront surchargées ou redéfinies selon chaque classe.
  	\item La classe Club et la Classe Participant sont liées par une relation d’agrégation c’est-à-dire que plusieurs participants appartiennent à un club et une personne adhère à un seul Club.
- 	\item La classe Participante est liée à la classe course par une relation d’association, en effet un participant peut participer à plusieurs courses et une course est ouverte à plusieurs personnes.
+ 	\item La classe Participante est liée à la classe Course par une relation d’association, en effet un participant peut participer à plusieurs courses et une course est ouverte à plusieurs personnes.
  	\item Une Course doit être insérer dans un seul challenge, vu que la classe Course et Challenge sont liées par une relation d’association avec les cardinalités 1..1 du coté de la course.
  	\item Un participant appartient à une et une seule catégorie, alors qu’une catégorie peut contenir plusieurs participants. 
 	\item Une course est organisée par un seul Organisateur et un organisateur peut organiser plusieurs courses.

@@ -1,5 +1,5 @@
 \section{Réalisation du projet}
-Ce chapitre est l’occasion pour présenter les différents langage et outils utilisés pour réaliser le projet. Également, la mise en avant des différentes interfaces mises en œuvres pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
+Ce chapitre est l’occasion pour présenter les différents langages et outils utilisés pour réaliser le projet. Également, la mise en avant des différentes interfaces mises en œuvre pour l’exécution des différentes fonctionnalités. Enfin les tests effectués pour s’assurer du bon fonctionnement de logiciel.
 
 
 \subsection {Langages \& outils utilisés}
@@ -24,9 +24,9 @@ Shiny est un package R qui permet la création d'applications Web interactives d
 Shiny permet de déployer une page web gérée par R et soutenu par HTML, CSS, Javascript et des framework reconnus comme Bootstrap ou encore Datatables.\\
 
 
-R en combinaison avec Shiny ont étés adoptés en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
+R en combinaison avec Shiny ont été adoptés en concertation avec nos encadrants et le maître d’ouvrage pour les raisons suivantes :
 \begin{itemize} 
-\item Les statistiques relatives aux classements des sportifs  devront être  faites en un langage capable de traiter des données volumineuses (les données relatives aux challenges dans le cas de notre projet) en réduisant au maximum les ressources utilisés en mémoire.
+\item Les statistiques relatives aux classements des sportifs  devront être  faites en un langage capable de traiter des données volumineuses (les données relatives aux challenges dans le cas de notre projet) en réduisant au maximum les ressources utilisées en mémoire.
 \item Des raisons pédagogiques. En fait, ce projet est l’occasion de découvrir les avantages et les limitations du langage R en termes de réalisation d’interfaces graphiques dynamiques et interactives.
 \item La simplicité de développement : R est un langage dit de "Haut niveau", c'est à dire d'après Wikipédia : "un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers."
 \item Un premier algorithme de classement a déjà été écrit, et fourni, en R.
@@ -48,7 +48,7 @@ Pour le projet, les packages suivants ont également étés utilisés :
 	\item "DT", alias "DataTables", qui nous permet d'afficher des tableaux dynamiques avec énormément d'options intéressantes (Recherche, tri, mise en forme...)
 	\item "xlsx", qui nous permet d'utiliser des fichiers Excel (Lire, enregistrer).
 	\item "plyr", pour de la manipulation de tableaux avancée.
-	\item "stats", pour des fonctions de statistique intéressante.
+	\item "stats", pour des fonctions de statistiques intéressantes.
 	\item "ggplot2", afin d'afficher des graphiques plus perfectionnés.
 \end{itemize}
 
@@ -61,7 +61,7 @@ Pour le projet, les packages suivants ont également étés utilisés :
 	\caption {Le logo de GitHub}
 \end{figure}
 GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. \\
-Le versionnage permet de travailler à plusieurs ur un code informatique, et de conserver l'historique des modifications du code. \\
+Le versionnage permet de travailler à plusieurs sur un code informatique, et de conserver l'historique des modifications du code. \\
 GitHub propose ses services aux entreprises, mais le statut étudiant nous permet de privilégier d'un compte gratuit, nous permettant d'héberger notre code dans des répertoires privés.\\
 
 \begin{figure}[!h]
@@ -91,7 +91,7 @@ Pour permettre à l’utilisateur de bénéficier des fonctionnalités de notre 
 Dans un premier temps, l'outil "Classement" permet de réaliser les classements des sportifs. \\
 Il s'agit uniquement d'un outil de calcul en ligne : l'utilisateur entre une course, un challenge (optionnel) et il pourra télécharger un classement mis à jour.
 
-Voici trois aperçu de l'interface, pour chacun des onglets :
+Voici trois aperçus de l'interface, pour chacun des onglets :
 
 \begin{figure}[!h]
 	\center
@@ -127,19 +127,19 @@ Le processus se déroule en trois étapes :
 	\item Le challenge mis à jour est téléchargeable.
 \end{enumerate}
 
-Plus en détail, voici les différents points que l'algorithme aborde :
+Plus en détails, voici les différents points que l'algorithme aborde :
 
 \begin{enumerate} 
 	\item Gérer les erreurs de saisies utilisateur
 	\item Vérifier la licence de l'utilisateur grâce au fichier Référence de la ligue.
-	\item Gérer les éventuels cas d'Homonymes présents.
+	\item Gérer les éventuels cas d'homonymes présents.
 	\item Calculer les points gagnés pour la course.
 	\item Intégrer le fichier course au fichier challenge, en vérifiant qu'une course du même nom n'existe pas.
 	\item Calculer le classement par club.
 	\item Enregistrer le fichier et le télécharger.
 \end{enumerate}
 
-Pour rappel, un code R nous a été fourni qui calculait ces classements. Nous avons travaillé dessus, puis remis à jour.
+Pour rappel, un code R qui calculait ces classements nous a été fourni. Nous avons travaillé dessus, puis remis à jour.
 Voici un exemple de ce qu'il est possible de faire grâce à l'interprétation matricielle de R, en évitant d'utiliser des boucles.
 Un aperçu ci-dessous du classement par clubs, original puis retravaillé à l'aide des fonctionnalités de R :
 
@@ -158,8 +158,8 @@ Un aperçu ci-dessous du classement par clubs, original puis retravaillé à l'a
 
 \subsubsection{Outil challenge}
 
-Dans un second temps, l'outils "Challenge" permet d'afficher ces résultats dans un format intéressant.
-Dans une seule page web seront contenu tout les tableaux de résultats des différentes années à partir de 2017, et ce pour les catégories Adultes et Jeunes, ainsi que pour les Clubs.
+Dans un second temps, l'outil "Challenge" permet d'afficher ces résultats dans un format intéressant.
+Dans une seule page web seront contenus tout les tableaux de résultats des différentes années à partir de 2017, et ce pour les catégories Adultes et Jeunes, ainsi que pour les Clubs.
 
 Voici un aperçu de l'interface web :
 
@@ -173,11 +173,11 @@ Voici les éléments composant cette interface :
 
 \begin{itemize} 
 	\item Une barre d'onglet pour les années du challenge, pour le moment uniquement 2017.
-	\item Une barre d'onglet pour l'année courante, comportant les challenge adultes et jeunes ainsi que les classements par clubs.
+	\item Une barre d'onglet pour l'année courante, comportant les challenges adultes et jeunes ainsi que les classements par clubs.
 	\item Le tableau de résultat.
 \end{itemize}
 
-Les avantages offert par le plugin DataTables sont :
+Les avantages offerts par le plugin DataTables sont :
 
 \begin{itemize} 
 	\item Une recherche globale, en haut à droite du tableau.
@@ -187,7 +187,7 @@ Les avantages offert par le plugin DataTables sont :
 	\item Un affichage dynamique sur plusieurs pages.
 \end{itemize}
 
-En cliquant sur la ligne d'un participant, des statistiques plus précise sont disponible ainsi que ses informations personnelles.
+En cliquant sur la ligne d'un participant, des statistiques plus précises sont disponibles ainsi que ses informations personnelles.
 Ainsi, un indice de performance est calculé, globalement, par sexe et enfin par catégorie. \\
 
 Des statistiques globales sont également présentes, dans l'onglet correspondant.
@@ -220,16 +220,16 @@ Pour cela nous disposons d'un serveur personnel debian ainsi que d'une adresse i
 Voici comment s'est déroulé ce déploiement :
 
 \begin{enumerate} 
-	\item Installation de R, avec les packages nécessaires cités pus haut. \cite{ref2}
+	\item Installation de R, avec les packages nécessaires cités plus haut. \cite{ref2}
 	\item Installation de shiny-server \cite{ref3}
 	\item Configuration de shiny-server : deux serveurs lancés, l'un sur le port 3838 et l'autre sur le 3939. Les deux pointent vers deux dossiers de l'utilisateur "triathlon" créé pour l'occasion.
-	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créés les sous-domaine challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
-	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers excel nécessaire au fonctionnement.
+	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créés les sous-domaines challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
+	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers Excel nécessaire au fonctionnement.
 \end{enumerate}
 
 
 \subsection {La documentation automatique}
-La documentation du projet consiste commenter toutes les fonctions pour faciliter la compréhension du codes et les changements futurs à effectuer.
+La documentation du projet consiste à commenter toutes les fonctions pour faciliter la compréhension du codes et les changements futurs à effectuer.
 Dans le cadre de notre projet,  la documentation  consiste à ajouter les commentaires concernant les boucles et les conditions utilisées au sein du code.
 
 
@@ -237,32 +237,22 @@ Dans le cadre de notre projet,  la documentation  consiste à ajouter les commen
 Les tests revêtent une importance capitale avant, lors et après le déploiement du logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.Ainsi, il demeure important de  le schéma et le type de tests à effectuer. \\
 Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
 L'ensemble de ces tests concernent les deux modules développés à savoir :
--l'outil de classement; 
--l'outil challenge.
+- l'outil de classement; 
+- l'outil challenge.
 
 \subsubsection{Outil classement}
 La première phase  des tests sur l'outil challenge consiste en la validation du code  Comparaison.R fourni et Challenge.R . Par conséquent, les tests effectués sont répertoriés comme suit :
 \begin{itemize}
-\item Tester les la modification des entêtes du fichiers Excel
-\item Tester le choix des valeurs qui doivent être entrées par l'utilisateurs
+\item Tester la modification des entêtes du fichiers Excel
+\item Tester le choix des valeurs qui doivent être entrées par l'utilisateur
 \item Tester l'existence du fichier xlsx de la course
-\item Tester l'existences des homonymes(validé)
+\item Tester l'existence des homonymes(validé)
 \item Tester l'ajout d'une course
 \item Tester les homonymes
 \end{itemize}
 \subsubsection{Outil challenge}
 
-S'agissant de l'outil challenge, les tests réalisé sont les suivants:
-\begin{itemize}
-\item La visualisation des résultats sous la forme dans un tableau sur l'interface graphique
-\item Tester le tri des résultats sur tous les critères spécifiés par le  client (tri selon le sexe, la catégorie, ...)
-\item La visualisation des résultats d'un seul sportif en cliquant sur la ligne correspondante
-\item L'affichage des graphes représentant les statistiques à chaque sportif.
-\end{itemize}
- 
-Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
-
-Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptance lors du déploiement du projet sur le serveur dédié.\\
+Dans cette optique, nous avons décidé d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
 
 S'agissant de l'outil challenge, les tests réalisé sont les suivants:
 \begin{itemize}
