@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  13 FEB 2018 10:27
 entering extended mode
 **./chapitre1.tex
 (chapitre1.tex
@@ -5619,127 +5619,8 @@ Missing character: There is no Ã in font nullfont!
 Missing character: There is no © in font nullfont!
 Missing character: There is no e in font nullfont!
 
-! LaTeX Error: Environment figure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 	\begin{figure}
-                    [!h]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ] in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 85--89
+Overfull \hbox (20.0pt too wide) in paragraph at lines 85--93
 []
- []
-
-! Undefined control sequence.
-l.90 	   \includegraphics
-                         [scale=0.9]{img/diagramme_de_gantt.png}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.90 ...\includegraphics[scale=0.9]{img/diagramme_
-                                                  de_gantt.png}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.90 ...ics[scale=0.9]{img/diagramme_de_gantt.png}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 	   \caption
-                  {Le diagramme de Gantt du projet}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 	\end{figure}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.92 	\end{figure}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.92 	\end{figure}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (189.02913pt too wide) in paragraph at lines 90--93
-[]\OML/cmm/m/it/10 e[]antt:png[]$ 
  []
 
 )
