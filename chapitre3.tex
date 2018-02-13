@@ -83,7 +83,7 @@ RStudio est un environnement de développement gratuit, libre et multiplateforme
 L'ensemble des développements de ce projet ont étés effectués avec ce logiciel.
 
 
-
+\newpage
 \subsection {Les deux outils distincts du projet}
 Pour permettre à l’utilisateur de bénéficier des fonctionnalités de notre logiciel, nous avons réalisé deux interfaces web. En effet, la première sera utilisée uniquement par l’administrateur de la ligue afin d’ajouter les différentes courses au challenge correspondant et également de consulter les informations et les statistiques relatives aux clubs et aux adhérents.
 
@@ -92,14 +92,27 @@ Pour permettre à l’utilisateur de bénéficier des fonctionnalités de notre 
 Dans un premier temps, l'outil "Classement" permet de réaliser les classements des sportifs. \\
 Il s'agit uniquement d'un outil de calcul en ligne : l'utilisateur entre une course, un challenge (optionnel) et il pourra télécharger un classement mis à jour.
 
-Voici un aperçu de l'interface :
+Voici trois aperçu de l'interface, pour chacun des onglets :
 
 \begin{figure}[!h]
 	\center
 	\includegraphics[scale=0.9]{img/admin_global.PNG}
-	\caption {Aperçu de l'interface de classement}
+	\caption {Aperçu de l'interface de classement - Onglet Course}
 \end{figure}
 
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.9]{img/ex_challenge.PNG}
+	\caption {Aperçu de l'interface de classement - Onglet Challenge}
+\end{figure}
+
+\begin{figure}[!h]
+	\center
+	\includegraphics[scale=0.9]{img/ex_dl.PNG}
+	\caption {Aperçu de l'interface de classement - Onglet Téléchargement}
+\end{figure}
+
+\newpage
 Le processus se déroule en trois étapes :
 
 \begin{enumerate} 
@@ -114,6 +127,20 @@ Le processus se déroule en trois étapes :
 	\item Le challenge existant peut être ajouté par l'administrateur, s'il ne l'est pas alors un nouveau challenge sera créé.
 	\item Le challenge mis à jour est téléchargeable.
 \end{enumerate}
+
+Plus en détail, voici les différents points que l'algorithme aborde :
+
+\begin{enumerate} 
+	\item Gérer les erreurs de saisies utilisateur
+	\item Vérifier la licence de l'utilisateur grâce au fichier Référence de la ligue.
+	\item Gérer les éventuels cas d'Homonymes présents.
+	\item Calculer les points gagnés pour la course.
+	\item Intégrer le fichier course au fichier challenge, en vérifiant qu'une course du même nom n'existe pas.
+	\item Calculer le classement par club.
+	\item Enregistrer le fichier et le télécharger.
+\end{enumerate}
+
+
 
 \subsection{Outil challenge}
 
