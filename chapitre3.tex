@@ -36,12 +36,12 @@ Cependant, nous avons soulevé les point suivants :
 
 \begin{itemize} 
 	\item Déployer un serveur web fonctionnant sous R et Shiny n'est pas commun. Les hébergements web sont généralement en php.
-	\item Les données concernés ne sont actuellement pas volumineuse, n'importe quel autre langage peut se permettre de les traiter avec autant d'efficacité.
+	\item Les données concernées ne sont actuellement pas volumineuses, n'importe quel autre langage peut se permettre de les traiter avec autant d'efficacité.
 	\item Shiny, avec l'appui des langages HTML, CSS et Javascript, se contente de générer une seule page web. Ce principe reste très réducteur de la fonction d'un site internet. De plus, cela oblige l'utilisateur à charger l'intégralité du site en une seule fois, incluant l'intégralité des données.
 	\item Shiny permettant également de créer l'interface graphique, les étudiants ont émis des doutes quand à la création d'une interface graphique dynamique.
 \end{itemize}
 
-Pour le projet, les packages suivants ont également étés utilisés :
+Pour le projet, les packages suivants ont également été utilisés :
 
 \begin{itemize} 
 	\item "shinythemes", afin d'avoir une page web élégante.
@@ -62,15 +62,15 @@ Pour le projet, les packages suivants ont également étés utilisés :
 \end{figure}
 GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. \\
 Le versionnage permet de travailler à plusieurs sur un code informatique, et de conserver l'historique des modifications du code. \\
-GitHub propose ses services aux entreprises, mais le statut étudiant nous permet de privilégier d'un compte gratuit, nous permettant d'héberger notre code dans des répertoires privés.\\
+GitHub propose ses services aux entreprises, mais le statut étudiant nous permet de profiter d'un compte gratuit, nous permettant d'héberger notre code dans des répertoires privés.\\
 
 \begin{figure}[!h]
 	\center
 	\includegraphics[scale=0.1]{img/latex.png}
-	\caption {Le logo de LaTex}
+	\caption {Le logo de LaTeX}
 \end{figure}
 
-LaTex est un langage et un système de composition de documents, qui nous a permis d'écrire ce rapport de manière efficace.
+LaTeX est un langage et un système de composition de documents, qui nous a permis d'écrire ce rapport de manière efficace.
 
 \begin{figure}[!h]
 	\center
@@ -139,7 +139,7 @@ Plus en détails, voici les différents points que l'algorithme aborde :
 	\item Enregistrer le fichier et le télécharger.
 \end{enumerate}
 
-Pour rappel, un code R qui calculait ces classements nous a été fourni. Nous avons travaillé dessus, puis remis à jour.
+Pour rappel, un code R qui calculait ces classements nous a été fourni. Nous avons travaillé dessus, puis nous l'avons remis à jour.
 Voici un exemple de ce qu'il est possible de faire grâce à l'interprétation matricielle de R, en évitant d'utiliser des boucles.
 Un aperçu ci-dessous du classement par clubs, original puis retravaillé à l'aide des fonctionnalités de R :
 
@@ -174,7 +174,7 @@ Voici les éléments composant cette interface :
 \begin{itemize} 
 	\item Une barre d'onglet pour les années du challenge, pour le moment uniquement 2017.
 	\item Une barre d'onglet pour l'année courante, comportant les challenges adultes et jeunes ainsi que les classements par clubs.
-	\item Le tableau de résultat.
+	\item Le tableau de résultats.
 \end{itemize}
 
 Les avantages offerts par le plugin DataTables sont :
@@ -207,8 +207,8 @@ En voici un aperçu :
 
 
 \subsection {Déploiement du projet}
-Grâce aux réunions effectuées avec le client, nous avons appris que la ligue Hauts-de-France dispose d'un serveur OVH sur lequel nous pourrions déployer l'application. \\
-On a obtenu les identifiants pas M. Nicolas PIERENS, ce qui nous a permis de voir que l'offre que la ligue a souscrit n'est qu'une offre web, le déployement n'est possible que sur un serveur dédié, un VPS. Ainsi, nous avons vu plusieurs possibilités de déploiement : 
+Grâce aux réunions effectuées avec le client, nous avons appris que la ligue des Hauts-de-France dispose d'un serveur OVH sur lequel nous pourrions déployer l'application. \\
+ Les identifiants nous ont été transmis par M. Nicolas PIERENS, ce qui nous a permis de voir que l'offre que la ligue a souscrit n'est qu'une offre web, le déploiement n'est possible que sur un serveur dédié, un VPS. Ainsi, nous avons vu plusieurs possibilités de déploiement : 
 \begin{itemize}
 \item  La plus adéquate : Demander à notre client de louer un VPS avec leur offre OVH, ce qui permettrait à la ligue d'obtenir notre application sur leur serveur dédié. Cela nécessite de payer moins de 4\euro par mois et d'avoir une personne chargée de tenir le serveur pour les mises à jour ou souci techniques liés au déploiement.
 \item La plus économique : Déployer le serveur sur un serveur de l'ULCO, cela permet de ne pas payer de VPS mais les serveurs de l'université pourraient ne pas supporter plusieurs connexions simultanées.
