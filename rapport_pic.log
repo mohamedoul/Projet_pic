@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  22 FEB 2018 20:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  22 FEB 2018 20:35
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1200,8 +1200,8 @@ png)
 <use img/Diagramme_cas_utilisation_organisation_course.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_organisation_course.png 
  used on input line 32. on input line 32.
-Package pdftex.def Info: Requested size: 389.57686pt x 199.86986pt on input lin
-e 32.
+Package pdftex.def Info: Requested size: 346.2942pt x 177.66397pt on input line
+ 32.
  [11 <./img/Diagramme_cas_utilisation_organisation_course.png>]
 <img/Diagramme_cas_utilisation_administration_challenge.png, id=226, 650.43pt x
  362.85562pt>
@@ -1210,10 +1210,10 @@ type png)
 <use img/Diagramme_cas_utilisation_administration_challenge.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_administration_challenge
 .png  used on input line 49. on input line 49.
-Package pdftex.def Info: Requested size: 585.38159pt x 326.56705pt on input lin
-e 49.
+Package pdftex.def Info: Requested size: 520.3447pt x 290.28488pt on input line
+ 49.
 
-Overfull \hbox (101.68472pt too wide) in paragraph at lines 49--50
+Overfull \hbox (36.64783pt too wide) in paragraph at lines 49--50
  [] 
  []
 
@@ -1224,10 +1224,10 @@ pe png)
 <use img/Diagramme_cas_utilisation_consultation_resultats.png>
 Package pdftex.def Info: img/Diagramme_cas_utilisation_consultation_resultats.p
 ng  used on input line 56. on input line 56.
-Package pdftex.def Info: Requested size: 575.89624pt x 320.46931pt on input lin
-e 56.
+Package pdftex.def Info: Requested size: 511.9132pt x 284.86462pt on input line
+ 56.
 
-Overfull \hbox (92.19937pt too wide) in paragraph at lines 56--57
+Overfull \hbox (28.21632pt too wide) in paragraph at lines 56--57
  [] 
  []
 
@@ -1320,15 +1320,15 @@ Overfull \hbox (51.27686pt too wide) in paragraph at lines 98--99
  [] 
  []
 
-<img/ex_challenge.PNG, id=280, 614.295pt x 219.219pt>
+<img/ex_challenge.PNG, id=280, 1020.81375pt x 381.425pt>
 File: img/ex_challenge.PNG Graphic file (type png)
 <use img/ex_challenge.PNG>
 Package pdftex.def Info: img/ex_challenge.PNG  used on input line 104. on input
  line 104.
-Package pdftex.def Info: Requested size: 552.86038pt x 197.29526pt on input lin
+Package pdftex.def Info: Requested size: 918.72389pt x 343.27931pt on input lin
 e 104.
 
-Overfull \hbox (69.16351pt too wide) in paragraph at lines 104--105
+Overfull \hbox (435.02702pt too wide) in paragraph at lines 104--105
  [] 
  []
 
@@ -1351,32 +1351,35 @@ Overfull \hbox (49.6508pt too wide) in paragraph at lines 110--111
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [20 <./img/admin_global.PNG>] [21 <./img/ex_challenge.PNG> <./img/ex_dl.PNG>]
-<img/codeoriginal.PNG, id=301, 612.48825pt x 490.2315pt>
+<img/codeoriginal.PNG, id=296, 612.48825pt x 490.2315pt>
 File: img/codeoriginal.PNG Graphic file (type png)
 <use img/codeoriginal.PNG>
 Package pdftex.def Info: img/codeoriginal.PNG  used on input line 148. on input
  line 148.
-Package pdftex.def Info: Requested size: 551.23433pt x 441.20427pt on input lin
+Package pdftex.def Info: Requested size: 489.99127pt x 392.18573pt on input lin
 e 148.
 
-Overfull \hbox (67.53746pt too wide) in paragraph at lines 148--149
+Overfull \hbox (6.2944pt too wide) in paragraph at lines 148--149
  [] 
  []
 
-<img/codenew.PNG, id=302, 629.35126pt x 41.55525pt>
+<img/codenew.PNG, id=297, 629.35126pt x 41.55525pt>
 File: img/codenew.PNG Graphic file (type png)
 <use img/codenew.PNG>
 Package pdftex.def Info: img/codenew.PNG  used on input line 154. on input line
  154.
-Package pdftex.def Info: Requested size: 566.41089pt x 37.39935pt on input line
+Package pdftex.def Info: Requested size: 503.48169pt x 33.24422pt on input line
  154.
 
-Overfull \hbox (82.71402pt too wide) in paragraph at lines 154--155
+Overfull \hbox (19.78482pt too wide) in paragraph at lines 154--155
  [] 
  []
 
-[22 <./img/codeoriginal.PNG> <./img/codenew.PNG>]
-<img/online.PNG, id=312, 1120.185pt x 513.71925pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./img/codeoriginal.PNG>]
+<img/online.PNG, id=311, 1120.185pt x 513.71925pt>
 File: img/online.PNG Graphic file (type png)
 <use img/online.PNG>
 Package pdftex.def Info: img/online.PNG  used on input line 168. on input line 
@@ -1393,7 +1396,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--192
 
  []
 
-<img/statsad.PNG, id=313, 938.3055pt x 517.33275pt>
+[23 <./img/codenew.PNG> <./img/online.PNG>]
+<img/statsad.PNG, id=319, 938.3055pt x 517.33275pt>
 File: img/statsad.PNG Graphic file (type png)
 <use img/statsad.PNG>
 Package pdftex.def Info: img/statsad.PNG  used on input line 199. on input line
@@ -1405,10 +1409,7 @@ Overfull \hbox (32.37276pt too wide) in paragraph at lines 199--200
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/statsjn.PNG, id=314, 986.4855pt x 414.95026pt>
+<img/statsjn.PNG, id=320, 986.4855pt x 414.95026pt>
 File: img/statsjn.PNG Graphic file (type png)
 <use img/statsjn.PNG>
 Package pdftex.def Info: img/statsjn.PNG  used on input line 204. on input line
@@ -1420,11 +1421,8 @@ Overfull \hbox (58.87184pt too wide) in paragraph at lines 204--205
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[23 <./img/online.PNG>] [24 <./img/statsad.PNG> <./img/statsjn.PNG>] [25])
-[26] (conclusion.tex) [27] (rapport_pic.bbl [28]
+[24 <./img/statsad.PNG> <./img/statsjn.PNG>] [25]) [26] (conclusion.tex)
+[27] (rapport_pic.bbl [28]
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 []\T1/lmr/m/n/12 developpez.com.  Ins-tal-la-tion de shiny-server sur de-bian, 
 2018.
@@ -1456,7 +1454,7 @@ Here is how much of TeX's memory you used:
  14068 multiletter control sequences out of 15000+200000
  69295 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,32p,925b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,32p,925b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
@@ -1465,7 +1463,7 @@ onts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 iKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
 lmsso12.pfb>
-Output written on rapport_pic.pdf (30 pages, 1135407 bytes).
+Output written on rapport_pic.pdf (30 pages, 1135926 bytes).
 PDF statistics:
  420 PDF objects out of 1000 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
