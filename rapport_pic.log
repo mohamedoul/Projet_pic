@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  22 FEB 2018 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.25)  22 FEB 2018 20:26
 entering extended mode
 **./rapport_pic.tex
 (rapport_pic.tex
@@ -1134,10 +1134,10 @@ File: img/points_categorie_adultes.png Graphic file (type png)
 <use img/points_categorie_adultes.png>
 Package pdftex.def Info: img/points_categorie_adultes.png  used on input line 3
 4. on input line 34.
-Package pdftex.def Info: Requested size: 575.90016pt x 48.93268pt on input line
+Package pdftex.def Info: Requested size: 518.30663pt x 44.03911pt on input line
  34.
 
-Overfull \hbox (92.2033pt too wide) in paragraph at lines 34--35
+Overfull \hbox (34.60976pt too wide) in paragraph at lines 34--35
  [] 
  []
 
@@ -1146,18 +1146,23 @@ File: img/points_categorie_jeunes.png Graphic file (type png)
 <use img/points_categorie_jeunes.png>
 Package pdftex.def Info: img/points_categorie_jeunes.png  used on input line 50
 . on input line 50.
-Package pdftex.def Info: Requested size: 458.0069pt x 43.36157pt on input line 
-50.
+Package pdftex.def Info: Requested size: 508.90001pt x 48.17986pt on input line
+ 50.
+
+Overfull \hbox (25.20314pt too wide) in paragraph at lines 50--51
+ [] 
+ []
+
 [5 <./img/points_categorie_adultes.png> <./img/points_categorie_jeunes.png>]
 <img/recapitulatif_modalite_challenge.png, id=193, 645.16031pt x 268.00125pt>
 File: img/recapitulatif_modalite_challenge.png Graphic file (type png)
 <use img/recapitulatif_modalite_challenge.png>
 Package pdftex.def Info: img/recapitulatif_modalite_challenge.png  used on inpu
 t line 61. on input line 61.
-Package pdftex.def Info: Requested size: 580.6389pt x 241.19888pt on input line
- 61.
+Package pdftex.def Info: Requested size: 516.12894pt x 214.40128pt on input lin
+e 61.
 
-Overfull \hbox (96.94203pt too wide) in paragraph at lines 61--62
+Overfull \hbox (32.43207pt too wide) in paragraph at lines 61--62
  [] 
  []
 
@@ -1167,22 +1172,27 @@ File: img/diagramme_de_gantt.png Graphic file (type png)
 <use img/diagramme_de_gantt.png>
 Package pdftex.def Info: img/diagramme_de_gantt.png  used on input line 89. on 
 input line 89.
-Package pdftex.def Info: Requested size: 874.68477pt x 159.21835pt on input lin
+Package pdftex.def Info: Requested size: 777.50581pt x 141.52893pt on input lin
 e 89.
 
-Overfull \hbox (143.44893pt too wide) in paragraph at lines 89--90
+Overfull \hbox (46.26997pt too wide) in paragraph at lines 89--90
  [] 
  []
 
 ) [8] [9 <./img/diagramme_de_gantt.png>] (chapitre2.tex
-<img/Diagramme_de_packages.png, id=212, 535.2497pt x 216.05719pt>
+<img/Diagramme_de_packages.png, id=212, 562.35094pt x 286.82156pt>
 File: img/Diagramme_de_packages.png Graphic file (type png)
 <use img/Diagramme_de_packages.png>
 Package pdftex.def Info: img/Diagramme_de_packages.png  used on input line 12. 
 on input line 12.
-Package pdftex.def Info: Requested size: 481.72028pt x 194.44965pt on input lin
+Package pdftex.def Info: Requested size: 506.11116pt x 258.13701pt on input lin
 e 12.
- [10 <./img/Diagramme_de_packages.png>]
+
+Overfull \hbox (22.41429pt too wide) in paragraph at lines 12--13
+ [] 
+ []
+
+[10 <./img/Diagramme_de_packages.png>]
 <img/Diagramme_cas_utilisation_organisation_course.png, id=220, 432.86719pt x 2
 22.07968pt>
 File: img/Diagramme_cas_utilisation_organisation_course.png Graphic file (type 
@@ -1455,7 +1465,7 @@ onts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 iKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
 lmsso12.pfb>
-Output written on rapport_pic.pdf (30 pages, 1180513 bytes).
+Output written on rapport_pic.pdf (30 pages, 1135407 bytes).
 PDF statistics:
  420 PDF objects out of 1000 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
