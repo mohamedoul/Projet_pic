@@ -27,9 +27,9 @@
 \contentsline {subsubsection}{GitHub, LaTex, RStudio}{19}{section*.14}
 \contentsline {subsection}{\numberline {C.2}Les deux outils distincts du projet}{20}{subsection.0.3.2}
 \contentsline {subsubsection}{Outil classement}{20}{section*.15}
-\contentsline {subsubsection}{Outil challenge}{23}{section*.16}
-\contentsline {subsection}{\numberline {C.3}D\IeC {\'e}ploiement du projet}{25}{subsection.0.3.3}
+\contentsline {subsubsection}{Outil challenge}{22}{section*.16}
+\contentsline {subsection}{\numberline {C.3}D\IeC {\'e}ploiement du projet}{23}{subsection.0.3.3}
 \contentsline {subsection}{\numberline {C.4}La documentation automatique}{25}{subsection.0.3.4}
 \contentsline {subsection}{\numberline {C.5}Sch\IeC {\'e}ma des tests}{25}{subsection.0.3.5}
-\contentsline {subsubsection}{Outil classement}{26}{section*.17}
+\contentsline {subsubsection}{Outil classement}{25}{section*.17}
 \contentsline {subsubsection}{Outil challenge}{26}{section*.18}
