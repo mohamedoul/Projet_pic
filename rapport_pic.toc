@@ -14,9 +14,9 @@
 \contentsline {subsection}{\numberline {B.2}Les cas d\IeC {\textquoteright }utilisation}{10}{subsection.0.2.2}
 \contentsline {subsubsection}{D\IeC {\'e}finition}{10}{section*.6}
 \contentsline {subsubsection}{Diagramme de cas d\IeC {\textquoteright }utilisation }{11}{section*.7}
-\contentsline {subsection}{\numberline {B.3}Diagramme des classes}{13}{subsection.0.2.3}
-\contentsline {subsubsection}{D\IeC {\'e}finition}{13}{section*.8}
-\contentsline {subsubsection}{Les classes}{13}{section*.9}
+\contentsline {subsection}{\numberline {B.3}Diagramme des classes}{12}{subsection.0.2.3}
+\contentsline {subsubsection}{D\IeC {\'e}finition}{12}{section*.8}
+\contentsline {subsubsection}{Les classes}{12}{section*.9}
 \contentsline {subsubsection}{Les relations entres les classes}{13}{section*.10}
 \contentsline {subsection}{\numberline {B.4}Le diagramme d\IeC {\textquoteright }activit\IeC {\'e}s}{15}{subsection.0.2.4}
 \contentsline {subsubsection}{D\IeC {\'e}finition}{15}{section*.11}
