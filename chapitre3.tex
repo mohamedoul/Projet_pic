@@ -210,7 +210,7 @@ En voici un aperçu :
 Grâce aux réunions effectuées avec le client, nous avons appris que la ligue des Hauts-de-France dispose d'un serveur OVH sur lequel nous pourrions déployer l'application. \\
  Les identifiants nous ont été transmis par M. Nicolas PIERENS, ce qui nous a permis de voir que l'offre que la ligue a souscrit n'est qu'une offre web, le déploiement n'est possible que sur un serveur dédié, un VPS. Ainsi, nous avons vu plusieurs possibilités de déploiement : 
 \begin{itemize}
-\item  La plus adéquate : Demander à notre client de louer un VPS avec leur offre OVH, ce qui permettrait à la ligue d'obtenir notre application sur leur serveur dédié. Cela nécessite de payer moins de 4\euro par mois et d'avoir une personne chargée de tenir le serveur pour les mises à jour ou souci techniques liés au déploiement.
+\item  La plus adéquate : Demander à notre client de louer un VPS avec leur offre OVH, ce qui permettrait à la ligue d'obtenir notre application sur leur serveur dédié. Cela nécessite de payer moins de 4\euro  par mois et d'avoir une personne chargée de tenir le serveur pour les mises à jour ou soucis techniques liés au déploiement.
 \item La plus économique : Déployer le serveur sur un serveur de l'ULCO, cela permet de ne pas payer de VPS mais les serveurs de l'université pourraient ne pas supporter plusieurs connexions simultanées.
 \item La plus simple car déjà effective : Déployer l'application sur un serveur privé d'un étudiant. Cela permet d'éviter la location d'un VPS pour la ligue, mais l'étudiant sert d'hébergeur secondaire et d'ici quelques mois, ce dernier ne sera peut-être plus concerné par ce projet.
 \end{itemize} 
@@ -223,38 +223,37 @@ Voici comment s'est déroulé ce déploiement :
 	\item Installation de R, avec les packages nécessaires cités plus haut. \cite{ref2}
 	\item Installation de shiny-server \cite{ref3}
 	\item Configuration de shiny-server : deux serveurs lancés, l'un sur le port 3838 et l'autre sur le 3939. Les deux pointent vers deux dossiers de l'utilisateur "triathlon" créé pour l'occasion.
-	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créés les sous-domaines challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
-	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers Excel nécessaire au fonctionnement.
+	\item Grâce aux identifiants OVH \cite{ref4} fournis par la ligue, nous avons eu accès au nom de domaine "triathlonhdf.fr" (où leur nouveau site web venait d'être déployé) et avons créé les sous-domaines challenge.triathlonhdf.fr et classement.triathlonhdf.fr. Ces deux sous-domaines pointent à l'aide d'une redirection invisible vers notre ipv4 et le port souhaité.
+	\item Un accès FTP sera fourni à la ligue afin de modifier les fichiers Excel nécessaires au fonctionnement.
 \end{enumerate}
 
 
 \subsection {La documentation automatique}
-La documentation du projet consiste à commenter toutes les fonctions pour faciliter la compréhension du codes et les changements futurs à effectuer.
+La documentation du projet consiste à commenter toutes les fonctions pour faciliter la compréhension du code et les changements futurs à effectuer.
 Dans le cadre de notre projet,  la documentation  consiste à ajouter les commentaires concernant les boucles et les conditions utilisées au sein du code.
 
 
 \subsection {Schéma des tests}
-Les tests revêtent une importance capitale avant, lors et après le déploiement du logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité.Ainsi, il demeure important de  le schéma et le type de tests à effectuer. \\
-Dans cette optique, nous avons décider d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
+Les tests revêtent une importance capitale avant, lors et après le déploiement du logiciel sur le serveur. En effet, ils permettent d'identifier un nombre maximum de comportements problématiques du logiciel afin d'en augmenter la qualité. \\
+Dans cette optique, nous avons effectué des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
 L'ensemble de ces tests concernent les deux modules développés à savoir :
-- l'outil de classement; 
-- l'outil challenge.
-
+\begin{itemize}
+\item L'outil de classement; 
+\item L'outil challenge.
+\end{itemize}
 \subsubsection{Outil classement}
 La première phase  des tests sur l'outil challenge consiste en la validation du code  Comparaison.R fourni et Challenge.R . Par conséquent, les tests effectués sont répertoriés comme suit :
 \begin{itemize}
-\item Tester la modification des entêtes du fichiers Excel
+\item Tester la modification des en-têtes du fichiers Excel
 \item Tester le choix des valeurs qui doivent être entrées par l'utilisateur
 \item Tester l'existence du fichier xlsx de la course
-\item Tester l'existence des homonymes(validé)
+\item Tester l'existence des homonymes (validé)
 \item Tester l'ajout d'une course
 \item Tester les homonymes
 \end{itemize}
 \subsubsection{Outil challenge}
 
-Dans cette optique, nous avons décidé d'effectuer des tests unitaires pour chaque fonctionnalité implémentée, un test global pour l'ensemble du projet et à la fin un test d'acceptation lors du déploiement du projet sur le serveur dédié.\\
-
-S'agissant de l'outil challenge, les tests réalisé sont les suivants:
+S'agissant de l'outil challenge, les tests réalisés sont les suivants:
 \begin{itemize}
 \item La visualisation des résultats sous la forme dans un tableau sur l'interface graphique
 \item Tester le tri des résultats sur tous les critères spécifiés par le  client (tri selon le sexe, la catégorie, ...)
